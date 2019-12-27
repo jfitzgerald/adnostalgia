@@ -1,0 +1,27 @@
+  <div class="nextprev-link prev">
+  {{with .Site.RegularPages.Prev . }}<a href="{{.RelPermalink}}">&lt; Previous</a>{{end}}
+  </div>
+  <div id="content">
+
+    <div id="content-detail">
+        <div class="ad-title"><h2>{{ .Params.title }}</h2></div>
+        {{ if .Params.description }}
+        <div class="ad-desc">"{{ .Params.description }}"</div>
+        {{ end }}
+	      <ul id="thumb-list">
+        {{ range $i, $thumb := .Params.detail_thumbs }}
+	        <li><a href="/{{ index $.Params.details $i }}" rel="lightbox" data-lightbox="{{ $.Params.title }}"><img src="/{{ $thumb }}"></a></li>
+        {{ end }}
+	      </ul>
+	  </div>
+
+    <div id="content-main">
+      <div id="advert">
+        <div class="ad-image"><a href="/{{ .Params.image }}" rel="lightbox" data-lightbox="{{ .Params.title }}"><img width="350" src="/{{ .Params.image }}"></a></div>
+      </div>
+    </div>
+
+  </div>
+  <div class="nextprev-link next">
+  {{with .Site.RegularPages.Next . }}<a href="{{.RelPermalink}}">Next &gt;</a>{{end}}
+  </div>

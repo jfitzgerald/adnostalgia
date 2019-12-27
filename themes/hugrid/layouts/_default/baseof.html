@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+	<head>
+	{{ partial "head.html" . }}
+	</head>
+	<body>
+    <div class="sticky header">
+      {{ partial "header.html" . }}
+    </div>
+		<div class="container">	
+			<div class="main">
+			{{ block "main" . }}
+			{{ end }}
+			</div>
+		</div>
+  {{ partial "scripts.html" . }}
+	</body>
+</html>
