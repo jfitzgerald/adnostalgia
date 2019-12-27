@@ -1,0 +1,116 @@
+body {
+  background-color: white;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.header {
+  background-color: white;
+  border-bottom: 1px solid #DDD;
+  z-index: 1000;
+}
+
+.container {
+  margin-top: 136px;
+}
+
+.main {
+  width: 700px;
+  margin: 10px auto;
+}
+
+.logo {
+  height: 115px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+.splash {
+    width: 600px;
+    margin: 20px auto;
+    padding: 0px;
+    text-align: center;
+    background: #FFF
+}
+
+.splash-details {
+    width: 500px;
+    text-align: center;
+    color: #666;
+    margin: 25px auto;
+    background-color: #DDD;
+    border: 1px solid #CCC;
+    padding: 10px 20px 20px 20px;
+}
+
+.splash-details p {
+  margin-top: 10px;
+}
+
+.splash-details a {
+	font-weight: 700;
+	font-size: 16px;
+	color: #333;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	padding: 10px 20px;
+	border: 3px solid #333;
+	display: inline-block;
+	margin: 10px auto;
+}
+
+.og-grid li {
+    border: 1px solid #ddd;
+    padding: 10px;
+    height: 150px;
+}
+
+.og-grid li.og-expanded > a::after {
+    margin: -12px 0 0 -15px;
+}
+
+.og-expander {
+	  margin-top: 18px;
+}
+
+.nextprev-link {
+  font-size: 2em;
+  position: absolute;
+  top: 0;
+  line-height: 80vh;
+  padding: 0 12px;
+}
+
+.nextprev-link:hover {
+  background-color: #EFEFEF;
+}
+.nextprev-link.next {
+  right: 0;
+}
+.nextprev-link.prev {
+  left: 0;
+}
+ul#thumb-list li {
+	list-style: none;
+  display: inline;
+  width: 150px;
+}
+
+#content img {
+	margin: 8px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  transition: box-shadow 0.1s ease-in-out;
+  padding: 8px;
+}
+
+#content img:hover {
+  box-shadow: 10px 10px 20px rgba(0,0,0,0.19), 6px 6px 6px rgba(0,0,0,0.23);
+}
+
+.ad-desc {
+  padding: 8px 0px;
+}
