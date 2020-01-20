@@ -1,6 +1,13 @@
-  <div class="nextprev-link prev">
-  {{with .Site.RegularPages.Prev . }}<a href="{{.RelPermalink}}">&lt; Previous</a>{{end}}
+
+  <div class="nav-links">
+    <div class="nextprev-link prev">
+      {{with .Site.RegularPages.Prev . }}<a href="{{.RelPermalink}}">&lt; Previous</a>{{end}}
+    </div>
+    <div class="nextprev-link next">
+      {{with .Site.RegularPages.Next . }}<a href="{{.RelPermalink}}">Next &gt;</a>{{end}}
+    </div>
   </div>
+
   <div id="content">
 
     <div id="content-detail">
@@ -10,18 +17,27 @@
         {{ end }}
 	      <ul id="thumb-list">
         {{ range $i, $thumb := .Params.detail_thumbs }}
-	        <li><a href="/{{ index $.Params.details $i }}" rel="lightbox" data-lightbox="{{ $.Params.title }}"><img src="/{{ $thumb }}"></a></li>
+	        <li><a href="/{{ index $.Params.details $i }}" rel="lightbox" data-lightbox="{{ $.Params.title }}">
+            <img src="/{{ $thumb }}"></a>
+          </li>
         {{ end }}
 	      </ul>
 	  </div>
 
     <div id="content-main">
       <div id="advert">
-        <div class="ad-image"><a href="/{{ .Params.image }}" rel="lightbox" data-lightbox="{{ .Params.title }}"><img width="350" src="/{{ .Params.image }}"></a></div>
+        <div class="ad-image"><a href="/{{ .Params.image }}" rel="lightbox" data-lightbox="{{ .Params.title }}">
+          <img src="/{{ .Params.image }}"></a></div>
       </div>
     </div>
 
   </div>
-  <div class="nextprev-link next">
-  {{with .Site.RegularPages.Next . }}<a href="{{.RelPermalink}}">Next &gt;</a>{{end}}
+
+  <div class="nav-links">
+    <div class="nextprev-link prev">
+      {{with .Site.RegularPages.Prev . }}<a href="{{.RelPermalink}}">&lt; Previous</a>{{end}}
+    </div>
+    <div class="nextprev-link next">
+      {{with .Site.RegularPages.Next . }}<a href="{{.RelPermalink}}">Next &gt;</a>{{end}}
+    </div>
   </div>

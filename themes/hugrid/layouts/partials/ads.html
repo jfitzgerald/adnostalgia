@@ -1,7 +1,7 @@
 <ul id="og-grid" class="og-grid">
   {{ range $.Site.Data.ads }}
   <li>
-    <a href="/ads/{{.slug}}/" data-largesrc="/{{.image}}" data-title="{{.title}}" data-description="{{.description }}" data-buttontext="{{.buttontext}}">
+    <a href="/ads/{{.slug}}/">
       <img src="/{{.thumb}}" alt="{{.alt}}"/>
     </a>
   </li>
