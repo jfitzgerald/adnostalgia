@@ -37,7 +37,7 @@ my $ads = JSON::Parse::json_file_to_perl($json_ads);
 #                          'images/ads/SCN_0052_5_thumb.jpg'
 #                        ]
 # }
-my $base_path = '/Users/justin/Code/adnostalgia/content/ads/';
+my $base_path = '/Users/justin/Code/adnostalgia/content/gallery/';
 
 foreach my $o (@$ads) {
     my $new_file = $base_path . $o->{'slug'} . ".md";
