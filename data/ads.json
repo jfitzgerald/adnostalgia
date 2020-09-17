@@ -5,7 +5,7 @@
         "thumb"       : "images/gallery/SCN_0017_thumb.jpg",
         "description" : "Now is the time to plan for your vacation of a lifetime--postwar. And planning is half the fun, especially with the ??? picture booklet.",
         "slug"         : "plan-for-the-vacation-lifetime",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0017_1.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0017_1_thumb.jpg"]
     },
@@ -15,7 +15,7 @@
         "thumb"       : "images/gallery/SCN_0002_thumb.jpg",
         "description" : "Now is the time to plan for your vacation of a lifetime--postwar. And planning is half the fun, especially with the ??? picture booklet.",
         "slug"         : "california-hangs-out-welcome-sign",
-        "tags"        : ["railroad"],
+        "tags"        : ["Railroad"],
         "details"      : [],
         "detail_thumbs"      : []
     },
@@ -25,7 +25,7 @@
         "thumb"       : "images/gallery/SCN_0004_thumb.jpg",
         "description" : "Southern California trip planner. How to have the most fun on your vacation.",
         "slug"         : "what-to-do-see-southern-california",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0004_1.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0004_1_thumb.jpg"]
     },
@@ -35,7 +35,7 @@
         "thumb"       : "images/gallery/SCN_0005_thumb.jpg",
         "description" : "Cal Expo - California Oranges",
         "slug"         : "california-oranges-decal",
-        "tags"        : ["decal"],
+        "tags"        : ["Decal"],
         "details"      : [],
         "detail_thumbs"      : []
     },
@@ -45,7 +45,7 @@
         "thumb"       : "images/gallery/SCN_0006_thumb.jpg",
         "description" : "Palm Springs, California - The Friendly Southern Pacific",
         "slug"         : "palm-springs-southern-pacific",
-        "tags"        : ["brochure", "railroad"],
+        "tags"        : ["Brochure", "Railroad"],
         "details"      : ["images/gallery/SCN_0006_1.jpg"],
         "detail_thumbs" : ["images/gallery/SCN_0006_1_thumb.jpg"]
     },
@@ -55,7 +55,7 @@
         "thumb"       : "images/gallery/SCN_0007_thumb.jpg",
         "description" : "Sacramento, California Travel Decal with Poppies and Golden Gate Bridge",
         "slug"         : "sacramento-california-decal",
-        "tags"        : ["decal"],
+        "tags"        : ["Decal"],
         "details"      : [],
         "detail_thumbs"      : []
     },
@@ -65,7 +65,7 @@
         "thumb"       : "images/gallery/SCN_0008_thumb.jpg",
         "description" : "United Air Lines - California and the Golden West - Spring/Summer 1956",
         "slug"         : "united-airlines-california",
-        "tags"        : ["brochure", "airlines"],
+        "tags"        : ["Brochure", "Airline"],
         "details"      : ["images/gallery/SCN_0008_1.jpg", "images/gallery/SCN_0008_2.jpg", "images/gallery/SCN_0008_3.jpg", "images/gallery/SCN_0008_4.jpg", "images/gallery/SCN_0008_5.jpg", "images/gallery/SCN_0008_6.jpg", "images/gallery/SCN_0008_7.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0008_1_thumb.jpg", "images/gallery/SCN_0008_2_thumb.jpg", "images/gallery/SCN_0008_3_thumb.jpg", "images/gallery/SCN_0008_4_thumb.jpg", "images/gallery/SCN_0008_5_thumb.jpg", "images/gallery/SCN_0008_6_thumb.jpg", "images/gallery/SCN_0008_7_thumb.jpg"]
     },
@@ -75,7 +75,7 @@
         "thumb"       : "images/gallery/SCN_0009_thumb.jpg",
         "description" : "All that's delightful in Southern California's summer lasts right on through September and October.",
         "slug"         : "fall-in-southern-california",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0009_1.jpg", "images/gallery/SCN_0009_2.jpg", "images/gallery/SCN_0009_3.jpg", "images/gallery/SCN_0009_4.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0009_1_thumb.jpg", "images/gallery/SCN_0009_2_thumb.jpg", "images/gallery/SCN_0009_3_thumb.jpg", "images/gallery/SCN_0009_4_thumb.jpg"]
     },
@@ -85,7 +85,7 @@
         "thumb"       : "images/gallery/SCN_0011_thumb.jpg",
         "description" : "Southern California swings into action with a 5 point program",
         "slug"         : "playground-goes-to-war",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0011_1.jpg", "images/gallery/SCN_0011_2.jpg", "images/gallery/SCN_0011_3.jpg", "images/gallery/SCN_0011_4.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0011_1_thumb.jpg", "images/gallery/SCN_0011_2_thumb.jpg", "images/gallery/SCN_0011_3_thumb.jpg", "images/gallery/SCN_0011_4_thumb.jpg"]
     },
@@ -95,7 +95,7 @@
         "thumb"       : "images/gallery/SCN_0013_thumb.jpg",
         "description" : "Whether you'd like a seapower tour or a two or three weeks' vacation in California, United Air Lines will be glad to arrange all the details.",
         "slug"         : "united-airlines-california-vacations",
-        "tags"        : ["airlines"],
+        "tags"        : ["Airline"],
         "details"      : ["images/gallery/SCN_0013_1.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0013_1_thumb.jpg"]
     },
@@ -105,7 +105,7 @@
         "thumb"       : "images/gallery/SCN_0014_thumb.jpg",
         "description" : "Magnificent mountain vistas you can really see! Snow-capped splendors in the colorful Colorado Rockies Feather River Canyon during daylight hours",
         "slug"         : "vista-doma-california-zephyr",
-        "tags"        : ["railroad"],
+        "tags"        : ["Railroad"],
         "details"      : ["images/gallery/SCN_0014_1.jpg","images/gallery/SCN_0014_2.jpg","images/gallery/SCN_0014_3.jpg","images/gallery/SCN_0014_4.jpg","images/gallery/SCN_0014_5.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0014_1_thumb.jpg","images/gallery/SCN_0014_2_thumb.jpg","images/gallery/SCN_0014_3_thumb.jpg","images/gallery/SCN_0014_4_thumb.jpg","images/gallery/SCN_0014_5_thumb.jpg"]
     },
@@ -115,7 +115,7 @@
         "thumb"       : "images/gallery/SCN_0015_thumb.jpg",
         "description" : "Enjoy every minute of your California trip -- from arrival to departure.",
         "slug"         : "california-by-train",
-        "tags"        : ["railroad"],
+        "tags"        : ["Railroad"],
         "details"      : ["images/gallery/SCN_0015_1.jpg","images/gallery/SCN_0015_2.jpg","images/gallery/SCN_0015_3.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0015_1_thumb.jpg","images/gallery/SCN_0015_2_thumb.jpg","images/gallery/SCN_0015_3_thumb.jpg"]
     },
@@ -123,9 +123,9 @@
         "title"       : "Southern California Spectacular '60",
         "image"       : "images/gallery/SCN_0016.jpg",
         "thumb"       : "images/gallery/SCN_0016_thumb.jpg",
-        "description" : "Yes, 1960 is the big year to enjoy all of our famous attractions, plan a ?? of over 200 exciting events. Come any time--but there's so much to see and do, plan to stay as long as you possibly can to see it all.",
+        "description" : "Yes, 1960 is the big year to enjoy all of our famous attractions, plan a bonus of over 200 exciting events. Come any time--but there's so much to see and do, plan to stay as long as you possibly can to see it all.",
         "slug"         : "southern-california-spectacular-60",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0016_1.jpg","images/gallery/SCN_0016_2.jpg","images/gallery/SCN_0016_3.jpg", "images/gallery/SCN_0016_4.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0016_1_thumb.jpg","images/gallery/SCN_0016_2_thumb.jpg","images/gallery/SCN_0016_3_thumb.jpg", "images/gallery/SCN_0016_4_thumb.jpg"]
     },
@@ -135,7 +135,7 @@
         "thumb"       : "images/gallery/SCN_0018_thumb.jpg",
         "description" : "26 free services for visitors the All-Year club's new official information bureau. This book is presented to you as an aid to the enjoyment of your visit by the All-Year Club of Southern California.",
         "slug"         : "official-tourist-guide-southern-california",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0018_1.jpg","images/gallery/SCN_0018_2.jpg","images/gallery/SCN_0018_3.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0018_1_thumb.jpg","images/gallery/SCN_0018_2_thumb.jpg","images/gallery/SCN_0018_3_thumb.jpg"]
     },
@@ -145,7 +145,7 @@
         "thumb"       : "images/gallery/SCN_0019_thumb.jpg",
         "description" : "California for the tourist - Southern Pacific",
         "slug"         : "california-tourist-southern-pacific",
-        "tags"        : ["railroad"],
+        "tags"        : ["Railroad"],
         "details"      : [],
         "detail_thumbs"      : []
     },
@@ -155,7 +155,7 @@
         "thumb"       : "images/gallery/SCN_0020_thumb.jpg",
         "description" : "Greetings from California Postcard",
         "slug"         : "greetings-from-california-postcard",
-        "tags"        : ["postcard"],
+        "tags"        : ["Postcard"],
         "details"      : [],
         "detail_thumbs"      : []
     },
@@ -165,7 +165,7 @@
         "thumb"       : "images/gallery/SCN_0021_thumb.jpg",
         "description" : "A guide to hotels, motels, and resorts in sotuhern California. A publication of the All-Year Club of Southern California's Community Travel Service Organization (Since 1921)",
         "slug"         : "where-to-stay-in-southern-california",
-        "tags"        : ["brochure", "all-year club"],
+        "tags"        : ["Brochure", "All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0021_1.jpg","images/gallery/SCN_0021_2.jpg","images/gallery/SCN_0021_3.jpg","images/gallery/SCN_0021_4.jpg","images/gallery/SCN_0021_5.jpg","images/gallery/SCN_0021_6.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0021_1_thumb.jpg","images/gallery/SCN_0021_2_thumb.jpg","images/gallery/SCN_0021_3_thumb.jpg","images/gallery/SCN_0021_4_thumb.jpg","images/gallery/SCN_0021_5_thumb.jpg","images/gallery/SCN_0021_6_thumb.jpg"]
     },
@@ -175,7 +175,7 @@
         "thumb"       : "images/gallery/SCN_0022_thumb.jpg",
         "description" : "Where California Began - California at its Best",
         "slug"         : "more-to-live-for-in-san-diego",
-        "tags"        : ["brochure"],
+        "tags"        : ["Brochure"],
         "details"      : ["images/gallery/SCN_0022_1.jpg","images/gallery/SCN_0022_2.jpg","images/gallery/SCN_0022_3.jpg","images/gallery/SCN_0022_4.jpg","images/gallery/SCN_0022_5.jpg","images/gallery/SCN_0022_6.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0022_1_thumb.jpg","images/gallery/SCN_0022_2_thumb.jpg","images/gallery/SCN_0022_3_thumb.jpg","images/gallery/SCN_0022_4_thumb.jpg","images/gallery/SCN_0022_5_thumb.jpg","images/gallery/SCN_0022_6_thumb.jpg"]
     },
@@ -185,7 +185,7 @@
         "thumb"       : "images/gallery/SCN_0023a_thumb.jpg",
         "description" : "Southern California - All the Year (front)",
         "slug"         : "southern-california-all-the-year-front",
-        "tags"        : ["brochure"],
+        "tags"        : ["Brochure"],
         "details"      : ["images/gallery/SCN_0023_2.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0023_2_thumb.jpg"]
     },
@@ -195,7 +195,7 @@
         "thumb"       : "images/gallery/SCN_0023b_thumb.jpg",
         "description" : "Southern California - All the Year (back)",
         "slug"         : "southern-california-all-the-year-back",
-        "tags"        : ["brochure"],
+        "tags"        : ["Brochure"],
         "details"      : [],
         "detail_thumbs"      : []
     },
@@ -205,7 +205,7 @@
         "thumb"       : "images/gallery/SCN_0024_thumb.jpg",
         "description" : "For more fun, use this free bureau. At this unique, communinty-sponsored hospitality center, you can get free guide books, specially prepared sightseeing maps, luggage stickers, together with complete, essential Southern California vacation information.",
         "slug"         : "plan-your-trip-to-southern-california",
-        "tags"        : ["all-year club", "brochure"],
+        "tags"        : ["All-Year Club of California", "Brochure"],
         "details"      : ["images/gallery/SCN_0024_1.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0024_1_thumb.jpg"]
     },
@@ -215,7 +215,7 @@
         "thumb"       : "images/gallery/SCN_0025_thumb.jpg",
         "description" : "It's beautiful. It's exciting. It's romantic.",
         "slug"         : "explore-southern-california",
-        "tags"        : ["brochure"],
+        "tags"        : ["Brochure"],
         "details"      : ["images/gallery/SCN_0025_1.jpg","images/gallery/SCN_0025_2.jpg","images/gallery/SCN_0025_3.jpg","images/gallery/SCN_0025_4.jpg","images/gallery/SCN_0025_5.jpg","images/gallery/SCN_0025_6.jpg","images/gallery/SCN_0025_7.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0025_1_thumb.jpg","images/gallery/SCN_0025_2_thumb.jpg","images/gallery/SCN_0025_3_thumb.jpg","images/gallery/SCN_0025_4_thumb.jpg","images/gallery/SCN_0025_5_thumb.jpg","images/gallery/SCN_0025_6_thumb.jpg","images/gallery/SCN_0025_7_thumb.jpg"]
     },
@@ -225,7 +225,7 @@
         "thumb"       : "images/gallery/SCN_0026_thumb.jpg",
         "description" : "Deep winter looks like this in Southern California.",
         "slug"         : "deep-winter-in-southern-california",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0026_1.jpg","images/gallery/SCN_0026_2.jpg","images/gallery/SCN_0026_3.jpg","images/gallery/SCN_0026_4.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0026_1_thumb.jpg","images/gallery/SCN_0026_2_thumb.jpg","images/gallery/SCN_0026_3_thumb.jpg","images/gallery/SCN_0026_4_thumb.jpg"]
     },
@@ -235,7 +235,7 @@
         "thumb"       : "images/gallery/SCN_0027_thumb.jpg",
         "description" : "A sight you'll always remember. The beckoning lights of Southern California after dark.",
         "slug"         : "southern-california-after-dark",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0027_1.jpg","images/gallery/SCN_0027_2.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0027_1_thumb.jpg","images/gallery/SCN_0027_2_thumb.jpg"]
     },
@@ -245,7 +245,7 @@
         "thumb"       : "images/gallery/SCN_0028_thumb.jpg",
         "description" : "Have you been snapping at people? Nerves frayed?",
         "slug"         : "southern-california-winter-sun-festival",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0028_1.jpg","images/gallery/SCN_0028_2.jpg","images/gallery/SCN_0028_3.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0028_1_thumb.jpg","images/gallery/SCN_0028_2_thumb.jpg","images/gallery/SCN_0028_3_thumb.jpg"]
     },
@@ -255,7 +255,7 @@
         "thumb"       : "images/gallery/SCN_0029_thumb.jpg",
         "description" : "All that's delightful in Southern California's summer lasts right on through September and October...bright warm days...cool nights...with little or no rain.",
         "slug"         : "do-you-know-fall-in-southern-california",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0029_1.jpg","images/gallery/SCN_0029_2.jpg","images/gallery/SCN_0029_3.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0029_1_thumb.jpg","images/gallery/SCN_0029_2_thumb.jpg","images/gallery/SCN_0029_3_thumb.jpg"]
     },
@@ -265,7 +265,7 @@
         "thumb"       : "images/gallery/SCN_0030_thumb.jpg",
         "description" : "",
         "slug"         : "summer-in-cool-southern-california",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0030_1.jpg","images/gallery/SCN_0030_2.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0030_1_thumb.jpg","images/gallery/SCN_0030_2_thumb.jpg"]
     },
@@ -275,7 +275,7 @@
         "thumb"       : "images/gallery/SCN_0031_thumb.jpg",
         "description" : "Come do all these things yourself. Look how easy and inexpensive it is.",
         "slug"         : "fun-map-of-southern-california",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0031_1.jpg","images/gallery/SCN_0031_2.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0031_1_thumb.jpg","images/gallery/SCN_0031_2_thumb.jpg"]
     },
@@ -285,7 +285,7 @@
         "thumb"       : "images/gallery/SCN_0032_thumb.jpg",
         "description" : "Fagged? Why you'll get your quickest come-back in...Southern California.",
         "slug"         : "southern-california-sun-festival",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0032_1.jpg","images/gallery/SCN_0032_2.jpg","images/gallery/SCN_0032_3.jpg","images/gallery/SCN_0032_4.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0032_1_thumb.jpg","images/gallery/SCN_0032_2_thumb.jpg","images/gallery/SCN_0032_3_thumb.jpg","images/gallery/SCN_0032_4_thumb.jpg"]
     },
@@ -295,7 +295,7 @@
         "thumb"       : "images/gallery/SCN_0033_thumb.jpg",
         "description" : "A new kind of tourist has 'taken' this place. Southern California",
         "slug"         : "southern-california-new-kind-of-tourist",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0033_1.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0033_1_thumb.jpg"]
     },
@@ -305,7 +305,7 @@
         "thumb"       : "images/gallery/SCN_0034_thumb.jpg",
         "description" : "Southern California - Winter Sun Festival",
         "slug"         : "winter-sun-festival-working-too-hard",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0034_1.jpg","images/gallery/SCN_0034_2.jpg","images/gallery/SCN_0034_3.jpg","images/gallery/SCN_0034_4.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0034_1_thumb.jpg","images/gallery/SCN_0034_2_thumb.jpg","images/gallery/SCN_0034_3_thumb.jpg","images/gallery/SCN_0034_4_thumb.jpg"]
     },
@@ -315,7 +315,7 @@
         "thumb"       : "images/gallery/SCN_0035_thumb.jpg",
         "description" : "Every kind of vacation joy--beside the cool Pacific. Southern California - 1931 - Fiesta Year",
         "slug"         : "southern-california-1931-fiesta-year",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0035_1.jpg","images/gallery/SCN_0035_2.jpg","images/gallery/SCN_0035_3.jpg","images/gallery/SCN_0035_4.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0035_1_thumb.jpg","images/gallery/SCN_0035_2_thumb.jpg","images/gallery/SCN_0035_3_thumb.jpg","images/gallery/SCN_0035_4_thumb.jpg"]
     },
@@ -325,7 +325,7 @@
         "thumb"       : "images/gallery/SCN_0036_thumb.jpg",
         "description" : "You need this economical trip this winter.",
         "slug"         : "adventuring-in-southern-california",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0036_1.jpg","images/gallery/SCN_0036_2.jpg","images/gallery/SCN_0036_3.jpg","images/gallery/SCN_0036_4.jpg","images/gallery/SCN_0036_5.jpg","images/gallery/SCN_0036_6.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0036_1_thumb.jpg","images/gallery/SCN_0036_2_thumb.jpg","images/gallery/SCN_0036_3_thumb.jpg","images/gallery/SCN_0036_4_thumb.jpg","images/gallery/SCN_0036_5_thumb.jpg","images/gallery/SCN_0036_6_thumb.jpg"]
     },
@@ -335,7 +335,7 @@
         "thumb"       : "images/gallery/SCN_0037_thumb.jpg",
         "description" : "Why movie stars seldom leave home!",
         "slug"         : "movie-stars-southern-california",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0037_1.jpg","images/gallery/SCN_0037_2.jpg","images/gallery/SCN_0037_3.jpg","images/gallery/SCN_0037_4.jpg","images/gallery/SCN_0037_5.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0037_1_thumb.jpg","images/gallery/SCN_0037_2_thumb.jpg","images/gallery/SCN_0037_3_thumb.jpg","images/gallery/SCN_0037_4_thumb.jpg","images/gallery/SCN_0037_5_thumb.jpg"]
     },
@@ -345,7 +345,7 @@
         "thumb"       : "images/gallery/SCN_0038_thumb.jpg",
         "description" : "Skyway to your favorite playground.",
         "slug"         : "western-airlines-skyway",
-        "tags"        : ["airline"],
+        "tags"        : ["Airline"],
         "details"      : ["images/gallery/SCN_0038_1.jpg","images/gallery/SCN_0038_2.jpg","images/gallery/SCN_0038_3.jpg","images/gallery/SCN_0038_4.jpg","images/gallery/SCN_0038_5.jpg","images/gallery/SCN_0038_6.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0038_1_thumb.jpg","images/gallery/SCN_0038_2_thumb.jpg","images/gallery/SCN_0038_3_thumb.jpg","images/gallery/SCN_0038_4_thumb.jpg","images/gallery/SCN_0038_5_thumb.jpg","images/gallery/SCN_0038_6_thumb.jpg"]
     },
@@ -355,7 +355,7 @@
         "thumb"       : "images/gallery/SCN_0039_thumb.jpg",
         "description" : "Western Airlines - Variety at Vegas",
         "slug"         : "western-airlines-variety-vegas",
-        "tags"        : ["airline"],
+        "tags"        : ["Airline"],
         "details"      : ["images/gallery/SCN_0039_1.jpg","images/gallery/SCN_0039_2.jpg","images/gallery/SCN_0039_3.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0039_1_thumb.jpg","images/gallery/SCN_0039_2_thumb.jpg","images/gallery/SCN_0039_3_thumb.jpg"]
     },
@@ -365,7 +365,7 @@
         "thumb"       : "images/gallery/SCN_0040_thumb.jpg",
         "description" : "Add days to your sunshine holiday...be there in hours on United Airlines.",
         "slug"         : "united-airlines-sunshine-holiday",
-        "tags"        : ["airline"],
+        "tags"        : ["Airline"],
         "details"      : ["images/gallery/SCN_0040_1.jpg","images/gallery/SCN_0040_2.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0040_1_thumb.jpg","images/gallery/SCN_0040_2_thumb.jpg"]
     },
@@ -375,7 +375,7 @@
         "thumb"       : "images/gallery/SCN_0041_thumb.jpg",
         "description" : "California, a beehive of industry in war years, is getting its house in order to receive guests from all over the nation.",
         "slug"         : "union-pacific-california-welcome-sign",
-        "tags"        : ["railroad"],
+        "tags"        : ["Railroad"],
         "details"      : ["images/gallery/SCN_0041_1.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0041_1_thumb.jpg"]
     },
@@ -405,7 +405,7 @@
         "thumb"       : "images/gallery/SCN_0044_thumb.jpg",
         "description" : "California - Glamour State Decal",
         "slug"         : "california-glamour-state-decal",
-        "tags"        : ["decal"],
+        "tags"        : ["Decal"],
         "details"      : [],
         "detail_thumbs"      : []
     },
@@ -415,7 +415,7 @@
         "thumb"       : "images/gallery/SCN_0045_thumb.jpg",
         "description" : "Now, colorful California is only hours away. Go this summer by American Airlines flagship.",
         "slug"         : "california-summer-american-airlines-flagship",
-        "tags"        : ["airline", "brochure"],
+        "tags"        : ["Airline", "Brochure"],
         "details"      : [],
         "detail_thumbs"      : []
     },
@@ -425,7 +425,7 @@
         "thumb"       : "images/gallery/SCN_0046_thumb.jpg",
         "description" : "California Mission Bell Decal",
         "slug"         : "california-mission-bell-decal",
-        "tags"        : ["decal"],
+        "tags"        : ["Decal"],
         "details"      : [],
         "detail_thumbs"      : []
     },
@@ -435,7 +435,7 @@
         "thumb"       : "images/gallery/SCN_0047_thumb.jpg",
         "description" : "Here's Glamoslugand! Your movie and radio sight-seeing guide. All-Year Club of Southern California",
         "slug"         : "glamoslugand-southern-california",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : [],
         "detail_thumbs"      : []
     },
@@ -445,7 +445,7 @@
         "thumb"       : "images/gallery/SCN_0048_thumb.jpg",
         "description" : "California Summertime--All the Time! Decal",
         "slug"         : "california-summertime-decal",
-        "tags"        : ["decal"],
+        "tags"        : ["Decal"],
         "details"      : [],
         "detail_thumbs"      : []
     },
@@ -455,7 +455,7 @@
         "thumb"       : "images/gallery/SCN_0049_thumb.jpg",
         "description" : "How to make the most of winter playtime.",
         "slug"         : "southern-california-winter-playtime",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0049_1.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0049_1_thumb.jpg"]
     },
@@ -463,9 +463,9 @@
         "title"       : "Southern California - Another World",
         "image"       : "images/gallery/SCN_0050.jpg",
         "thumb"       : "images/gallery/SCN_0050_thumb.jpg",
-        "description" : "Step into another world this vacation! Southern California--America's 4-season vacationland.",
+        "description" : "Step into Another World this Vacation! Southern California--America's 4-Season Vacationland.",
         "slug"         : "southern-california-another-world",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0050_1.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0050_1_thumb.jpg"]
     },
@@ -475,7 +475,7 @@
         "thumb"       : "images/gallery/SCN_0051_thumb.jpg",
         "description" : "Southern California - All-Winter Sun Festival - 300 Events -- Come Early",
         "slug"         : "southern-california-all-winter-sun-festival",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : [],
         "detail_thumbs"      : []
     },
@@ -485,7 +485,7 @@
         "thumb"       : "images/gallery/SCN_0052_thumb.jpg",
         "description" : "Sun laze in the winter mildness of San Diego.",
         "slug"         : "sun-laze-san-diego-california",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0052_1.jpg","images/gallery/SCN_0052_2.jpg","images/gallery/SCN_0052_3.jpg","images/gallery/SCN_0052_4.jpg","images/gallery/SCN_0052_5.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0052_1_thumb.jpg","images/gallery/SCN_0052_2_thumb.jpg","images/gallery/SCN_0052_3_thumb.jpg","images/gallery/SCN_0052_4_thumb.jpg","images/gallery/SCN_0052_5_thumb.jpg"]
     },
@@ -495,7 +495,7 @@
         "thumb"       : "images/gallery/SCN_0053_thumb.jpg",
         "description" : "A California trip usually us an event in one's life...so plan to enjoy every minute from the time of departure until your return.",
         "slug"         : "arrive-california-fresh-breeze",
-        "tags"        : ["all-year club"],
+        "tags"        : ["All-Year Club of California"],
         "details"      : [],
         "detail_thumbs"      : []
     },
@@ -508,5 +508,15 @@
         "tags"        : [],
         "details"      : ["images/gallery/SCN_0054_1.jpg"],
         "detail_thumbs"      : ["images/gallery/SCN_0054_1_thumb.jpg"]
+    },
+    {
+        "title"       : "Los Angeles County, California",
+        "image"       : "images/gallery/SCN_0140.jpg",
+        "thumb"       : "images/gallery/SCN_0140_thumb.jpg",
+        "description" : "From the Chambers of Commerce in Los Angeles County",
+        "slug"         : "los-angeles-county-brochure",
+        "tags"        : ["Los Angeles", "Brochure"],
+        "details"      : [],
+        "detail_thumbs"      : []
     }
 ]

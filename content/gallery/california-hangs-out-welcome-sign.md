@@ -1,12 +1,12 @@
 {
-  "slug" : "california-hangs-out-welcome-sign",
-  "title" : "California hangs out the welcome sign",
-  "details" : [],
-  "thumb" : "images/gallery/SCN_0002_thumb.jpg",
   "description" : "Now is the time to plan for your vacation of a lifetime--postwar. And planning is half the fun, especially with the ??? picture booklet.",
-  "detail_thumbs" : [],
+  "slug" : "california-hangs-out-welcome-sign",
   "tags" : [
-              "railroad"
+              "Railroad"
             ],
-  "image" : "images/gallery/SCN_0002.jpg"
+  "detail_thumbs" : [],
+  "details" : [],
+  "image" : "images/gallery/SCN_0002.jpg",
+  "thumb" : "images/gallery/SCN_0002_thumb.jpg",
+  "title" : "California hangs out the welcome sign"
 }

@@ -1,12 +1,12 @@
 {
   "description" : "Greetings from California Postcard",
-  "title" : "Greeting from California",
-  "details" : [],
-  "thumb" : "images/gallery/SCN_0020_thumb.jpg",
   "slug" : "greetings-from-california-postcard",
   "tags" : [
-              "postcard"
+              "Postcard"
             ],
+  "details" : [],
+  "image" : "images/gallery/SCN_0020.jpg",
   "detail_thumbs" : [],
-  "image" : "images/gallery/SCN_0020.jpg"
+  "title" : "Greeting from California",
+  "thumb" : "images/gallery/SCN_0020_thumb.jpg"
 }

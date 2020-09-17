@@ -1,12 +1,12 @@
 {
-  "tags" : [
-              "decal"
-            ],
-  "detail_thumbs" : [],
   "image" : "images/gallery/SCN_0005.jpg",
-  "slug" : "california-oranges-decal",
-  "title" : "California Oranges (Decal)",
   "details" : [],
+  "detail_thumbs" : [],
   "thumb" : "images/gallery/SCN_0005_thumb.jpg",
-  "description" : "Cal Expo - California Oranges"
+  "title" : "California Oranges (Decal)",
+  "description" : "Cal Expo - California Oranges",
+  "slug" : "california-oranges-decal",
+  "tags" : [
+              "Decal"
+            ]
 }

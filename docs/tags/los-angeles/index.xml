@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Los Angeles on Ad Nostalgia</title>
+    <link>http://www.adnostalgia.com/tags/los-angeles/</link>
+    <description>Recent content in Los Angeles on Ad Nostalgia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.adnostalgia.com/tags/los-angeles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Los Angeles County, California</title>
+      <link>http://www.adnostalgia.com/gallery/los-angeles-county-brochure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.adnostalgia.com/gallery/los-angeles-county-brochure/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

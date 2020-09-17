@@ -1,12 +1,12 @@
 {
-  "slug" : "california-summertime-decal",
-  "details" : [],
-  "thumb" : "images/gallery/SCN_0048_thumb.jpg",
-  "title" : "California Summertime Decal",
   "description" : "California Summertime--All the Time! Decal",
-  "image" : "images/gallery/SCN_0048.jpg",
-  "detail_thumbs" : [],
+  "slug" : "california-summertime-decal",
   "tags" : [
-              "decal"
-            ]
+              "Decal"
+            ],
+  "detail_thumbs" : [],
+  "details" : [],
+  "image" : "images/gallery/SCN_0048.jpg",
+  "thumb" : "images/gallery/SCN_0048_thumb.jpg",
+  "title" : "California Summertime Decal"
 }

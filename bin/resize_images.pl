@@ -1,23 +1,20 @@
-#!/opt/local/bin/perl -w
+#!/usr/bin/perl -w
 
 use strict;
-use lib '../lib';
-use ADN::Item::Advert;
-use ADN::Util;
-use ADN::Config;
+use ADNUtil;
+use ADNConfig;
 
 use Data::Dumper;
 
 ## example:
-## perl import_tabs.pl < imageList.txt > import_log
-## 
+## perl resize_images.pl < imageList.txt > import_log
+##
 
 my $fileParam;
 
-while($fileParam = <STDIN>)
-{
+while($fileParam = <STDIN>) {
 	chomp($fileParam);
 	return undef if($fileParam !~ /\.jpg$/);
 
-	ADN::Util::CreateImagesFor(dest => $CONFIG{'ImageDestDir'}, file => $fileParam);
+	ADNUtil::CreateImagesFor(dest => $CONFIG{'ImageDestDir'}, file => $fileParam);
 }
