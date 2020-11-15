@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Santa Fe Railroad on Ad Nostalgia</title>
+    <link>http://www.adnostalgia.com/tags/santa-fe-railroad/</link>
+    <description>Recent content in Santa Fe Railroad on Ad Nostalgia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.adnostalgia.com/tags/santa-fe-railroad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>California Picture Book</title>
+      <link>http://www.adnostalgia.com/gallery/california-picture-book-santa-fe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.adnostalgia.com/gallery/california-picture-book-santa-fe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Southen California (Santa Fe Railroad Poster)</title>
+      <link>http://www.adnostalgia.com/gallery/southern-california-santa-fe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.adnostalgia.com/gallery/southern-california-santa-fe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>California Beaches (Southern Pacific Railroad Poster)</title>
+      <link>http://www.adnostalgia.com/gallery/california-beaches-southern-pacific/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.adnostalgia.com/gallery/california-beaches-southern-pacific/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>California Brochure (Santa Fe Railroad)</title>
+      <link>http://www.adnostalgia.com/gallery/california-santa-fe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.adnostalgia.com/gallery/california-santa-fe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

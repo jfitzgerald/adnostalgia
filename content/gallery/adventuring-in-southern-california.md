@@ -1,6 +1,5 @@
 {
-  "title" : "Adventuring in Southern California",
-  "thumb" : "images/gallery/SCN_0036_thumb.jpg",
+  "description" : "You need this economical trip this winter.",
   "detail_thumbs" : [
                        "images/gallery/SCN_0036_1_thumb.jpg",
                        "images/gallery/SCN_0036_2_thumb.jpg",
@@ -18,9 +17,11 @@
                  "images/gallery/SCN_0036_6.jpg"
                ],
   "image" : "images/gallery/SCN_0036.jpg",
+  "slug" : "adventuring-in-southern-california",
   "tags" : [
               "All-Year Club of California"
             ],
-  "slug" : "adventuring-in-southern-california",
-  "description" : "You need this economical trip this winter."
+  "thumb" : "images/gallery/SCN_0036_thumb.jpg",
+  "title" : "Adventuring in Southern California",
+  "weight" : -36
 }

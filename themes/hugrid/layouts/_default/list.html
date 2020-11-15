@@ -1,3 +1,11 @@
 {{ define "main" }}
-{{ partial "ads.html" . }}
+<ul id="og-grid" class="og-grid">
+  {{ range .Pages }}
+  <li>
+    <a href="{{.Permalink}}/">
+      <img src="/{{.Params.thumb}}" alt="{{.Title}}"/>
+    </a>
+  </li>
+  {{ end }}
+</ul>
 {{ end }}

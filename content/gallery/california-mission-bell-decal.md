@@ -1,12 +1,13 @@
 {
-  "title" : "California Mission Bell Decal",
-  "thumb" : "images/gallery/SCN_0046_thumb.jpg",
+  "description" : "California Mission Bell Decal",
+  "detail_thumbs" : [],
   "details" : [],
   "image" : "images/gallery/SCN_0046.jpg",
-  "detail_thumbs" : [],
+  "slug" : "california-mission-bell-decal",
   "tags" : [
               "Decal"
             ],
-  "description" : "California Mission Bell Decal",
-  "slug" : "california-mission-bell-decal"
+  "thumb" : "images/gallery/SCN_0046_thumb.jpg",
+  "title" : "California Mission Bell Decal",
+  "weight" : -46
 }

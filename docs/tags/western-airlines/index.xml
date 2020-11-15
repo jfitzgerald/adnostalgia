@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Western Airlines on Ad Nostalgia</title>
+    <link>http://www.adnostalgia.com/tags/western-airlines/</link>
+    <description>Recent content in Western Airlines on Ad Nostalgia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.adnostalgia.com/tags/western-airlines/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Western Airlines - Magic Holiday - San Diego</title>
+      <link>http://www.adnostalgia.com/gallery/western-airlines-magic-holiday-san-diego/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.adnostalgia.com/gallery/western-airlines-magic-holiday-san-diego/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

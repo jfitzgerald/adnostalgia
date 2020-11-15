@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Union Pacific on Ad Nostalgia</title>
+    <link>http://www.adnostalgia.com/tags/union-pacific/</link>
+    <description>Recent content in Union Pacific on Ad Nostalgia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.adnostalgia.com/tags/union-pacific/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visit Your Western Wonderlands (Union Pacific Railroad)</title>
+      <link>http://www.adnostalgia.com/gallery/visit-your-western-wonderlands-union-pacific/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.adnostalgia.com/gallery/visit-your-western-wonderlands-union-pacific/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Western Wonderlands (Union Pacific Railroad)</title>
+      <link>http://www.adnostalgia.com/gallery/western-wonderlands-union-pacific/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.adnostalgia.com/gallery/western-wonderlands-union-pacific/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Western Wonderlands (Union Pacific Railroad)</title>
+      <link>http://www.adnostalgia.com/gallery/western-wonderlands-union-pacific-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.adnostalgia.com/gallery/western-wonderlands-union-pacific-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -13,11 +13,10 @@
 		color: {{ .Site.Params.bodytextcolor }};
 		}
 		</style>
-		<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/default.css" />
-		<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/component.css" />
-		<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/site.css" />
-		<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/lightbox.min.css" />
+		<link rel="stylesheet" type="text/css" href="/css/default.css" />
+		<link rel="stylesheet" type="text/css" href="/css/component.css" />
+		<link rel="stylesheet" type="text/css" href="/css/site.css" />
+		<link rel="stylesheet" type="text/css" href="/css/lightbox.min.css" />
 		{{ range .Site.Params.custom_css }}
 			<link rel="stylesheet" href="{{ . }}">
 		{{ end }}
-		

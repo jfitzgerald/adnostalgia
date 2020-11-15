@@ -8,6 +8,7 @@ use Data::Dumper;
 $Data::Dumper::Terse = 1;
 $Data::Dumper::Useqq = 1;
 $Data::Dumper::Pair = ' : ';
+$Data::Dumper::Sortkeys = 1;
 
 my $json_ads = '/Users/justin/Code/adnostalgia/data/ads.json';
 my $ads = JSON::Parse::json_file_to_perl($json_ads);
@@ -40,7 +41,12 @@ my $ads = JSON::Parse::json_file_to_perl($json_ads);
 my $base_path = '/Users/justin/Code/adnostalgia/content/gallery/';
 
 foreach my $o (@$ads) {
-    my $new_file = $base_path . $o->{'slug'} . ".md";
+    my $image = $o->{image};
+    if($image =~ /_(\d\d\d\d)\.jpg/) {
+        $o->{weight} = -1 * int($1);
+    }
+
+    my $new_file = $base_path . $o->{slug} . ".md";
     print STDERR "$new_file\n";
     #if(!-d $new_dir) {
         #`mkdir $new_dir` or die "couldn't create dir $!";

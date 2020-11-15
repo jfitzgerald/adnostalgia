@@ -5,6 +5,13 @@ Tell Hugo to build the site in docs/.
 ```bash
 hugo -d docs/
 ```
+
+Test the site in docs/
+
+```
+python -m SimpleHTTPServer
+```
+
 # ImageMagick
 
 For compilers to find imagemagick@6 you may need to set:
@@ -32,3 +39,10 @@ To resize larger side to 100 if it is larger than 100 and preserve aspect ratio,
 convert image.jpg -resize "100>" newimage.jpg
 ```
 
+# Resize Images
+
+To resize images
+
+```bash
+find /Path/to/images/*.jpg -print | perl resize_images.pl > log
+```

@@ -1,16 +1,19 @@
 {
+  "description" : "Southern California - All the Year (front)",
+  "detail_thumbs" : [
+                       "images/gallery/SCN_0145_1_thumb.jpg",
+                       "images/gallery/SCN_0145_2_thumb.jpg"
+                     ],
+  "details" : [
+                 "images/gallery/SCN_0145_1.jpg",
+                 "images/gallery/SCN_0145_2.jpg"
+               ],
+  "image" : "images/gallery/SCN_0145.jpg",
+  "slug" : "southern-california-all-the-year-front",
   "tags" : [
               "Brochure"
             ],
-  "slug" : "southern-california-all-the-year-front",
-  "description" : "Southern California - All the Year (front)",
-  "thumb" : "images/gallery/SCN_0023a_thumb.jpg",
+  "thumb" : "images/gallery/SCN_0145_thumb.jpg",
   "title" : "Southern California - All the Year (front)",
-  "details" : [
-                 "images/gallery/SCN_0023_2.jpg"
-               ],
-  "image" : "images/gallery/SCN_0023a.jpg",
-  "detail_thumbs" : [
-                       "images/gallery/SCN_0023_2_thumb.jpg"
-                     ]
+  "weight" : -145
 }

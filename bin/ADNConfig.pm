@@ -15,8 +15,8 @@ use vars qw(%CONFIG);
     'Quality'           => 85,
     'ThumbY'            => 250,
     'ThumbX'            => 200,
-    'DetailMaxDimension'=> 820,
-    'MaxDimension'      => 660,
+    #'DetailMaxDimension'=> 820,
+    'MaxDimension'      => 1200,
     'ImageDestDir'      => '/Users/justin/Code/adnostalgia/static/images/gallery'
 );
 

@@ -45,12 +45,15 @@ sub CreateImagesFor {
 	my (%args) = @_;
 	return undef unless($args{dest} && $args{file});
 
+    # SCN_0054
 	my $image = $args{file};
 	$image =~ s|^(.+)/([^/]+)\.jpg$|$2|;
 
+    # SCN_0054.jpg
 	my $srcImage = $args{file};
 	$srcImage =~ s|^(.+)/([^/]+\.jpg)$|$2|;
 
+    # /Path/to/image
 	my $srcDir = $args{file};
 	$srcDir =~ s|^(.+)/([^/]+)\.jpg$|$1|;
 
@@ -64,13 +67,13 @@ sub CreateImagesFor {
 	push @thumbs, $dest;
 
 	# let's get the detail images
-	my @details = bsd_glob(sprintf("%s/%s_*.jpg", $srcDir, $image));
+	my @details = bsd_glob(sprintf("%s/%s_?.jpg", $srcDir, $image));
 	foreach my $srcDetail (@details) {
 		my $dstDetail = $srcDetail;
 		$dstDetail =~ s/$srcDir/$args{dest}/;
 
 		my $imgDetail = new ADNImage(file => $srcDetail);
-		$imgDetail->scale($CONFIG{'DetailMaxDimension'}, $CONFIG{'Quality'});
+		$imgDetail->scale($CONFIG{'MaxDimension'}, $CONFIG{'Quality'});
 		$imgDetail->save($dstDetail);
 
 		push @thumbs, $dstDetail;

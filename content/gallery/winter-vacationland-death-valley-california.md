@@ -1,4 +1,5 @@
 {
+  "description" : "Sunshine - Fun - Scenery - Death Valley, California",
   "detail_thumbs" : [
                        "images/gallery/SCN_0054_1_thumb.jpg"
                      ],
@@ -6,9 +7,9 @@
                  "images/gallery/SCN_0054_1.jpg"
                ],
   "image" : "images/gallery/SCN_0054.jpg",
-  "title" : "Winter Vacationland - Death Valley, California",
-  "thumb" : "images/gallery/SCN_0054_thumb.jpg",
-  "description" : "Sunshine - Fun - Scenery - Death Valley, California",
   "slug" : "winter-vacationland-death-valley-california",
-  "tags" : []
+  "tags" : [],
+  "thumb" : "images/gallery/SCN_0054_thumb.jpg",
+  "title" : "Winter Vacationland - Death Valley, California",
+  "weight" : -54
 }

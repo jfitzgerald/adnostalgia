@@ -1,9 +1,5 @@
 {
-  "slug" : "united-airlines-sunshine-holiday",
   "description" : "Add days to your sunshine holiday...be there in hours on United Airlines.",
-  "tags" : [
-              "Airline"
-            ],
   "detail_thumbs" : [
                        "images/gallery/SCN_0040_1_thumb.jpg",
                        "images/gallery/SCN_0040_2_thumb.jpg"
@@ -13,6 +9,11 @@
                  "images/gallery/SCN_0040_2.jpg"
                ],
   "image" : "images/gallery/SCN_0040.jpg",
+  "slug" : "united-airlines-sunshine-holiday",
+  "tags" : [
+              "Airline"
+            ],
+  "thumb" : "images/gallery/SCN_0040_thumb.jpg",
   "title" : "United Airlines - Sunshine Holiday",
-  "thumb" : "images/gallery/SCN_0040_thumb.jpg"
+  "weight" : -40
 }

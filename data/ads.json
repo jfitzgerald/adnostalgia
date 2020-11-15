@@ -26,8 +26,8 @@
         "description" : "Southern California trip planner. How to have the most fun on your vacation.",
         "slug"         : "what-to-do-see-southern-california",
         "tags"        : ["All-Year Club of California"],
-        "details"      : ["images/gallery/SCN_0004_1.jpg"],
-        "detail_thumbs"      : ["images/gallery/SCN_0004_1_thumb.jpg"]
+        "details"      : ["images/gallery/SCN_0004_1.jpg","images/gallery/SCN_0004_2.jpg","images/gallery/SCN_0004_3.jpg","images/gallery/SCN_0004_4.jpg","images/gallery/SCN_0004_5.jpg"],
+        "detail_thumbs"      : ["images/gallery/SCN_0004_1_thumb.jpg","images/gallery/SCN_0004_2_thumb.jpg","images/gallery/SCN_0004_3_thumb.jpg","images/gallery/SCN_0004_4_thumb.jpg","images/gallery/SCN_0004_5_thumb.jpg"]
     },
     {
         "title"       : "California Oranges (Decal)",
@@ -181,23 +181,23 @@
     },
     {
         "title"       : "Southern California - All the Year (front)",
-        "image"       : "images/gallery/SCN_0023a.jpg",
-        "thumb"       : "images/gallery/SCN_0023a_thumb.jpg",
+        "image"       : "images/gallery/SCN_0145.jpg",
+        "thumb"       : "images/gallery/SCN_0145_thumb.jpg",
         "description" : "Southern California - All the Year (front)",
         "slug"         : "southern-california-all-the-year-front",
         "tags"        : ["Brochure"],
-        "details"      : ["images/gallery/SCN_0023_2.jpg"],
-        "detail_thumbs"      : ["images/gallery/SCN_0023_2_thumb.jpg"]
+        "details"      : ["images/gallery/SCN_0145_1.jpg","images/gallery/SCN_0145_2.jpg"],
+        "detail_thumbs"      : ["images/gallery/SCN_0145_1_thumb.jpg","images/gallery/SCN_0145_2_thumb.jpg"]
     },
     {
         "title"       : "Southern California - All the Year (back)",
-        "image"       : "images/gallery/SCN_0023b.jpg",
-        "thumb"       : "images/gallery/SCN_0023b_thumb.jpg",
+        "image"       : "images/gallery/SCN_0146.jpg",
+        "thumb"       : "images/gallery/SCN_0146_thumb.jpg",
         "description" : "Southern California - All the Year (back)",
         "slug"         : "southern-california-all-the-year-back",
         "tags"        : ["Brochure"],
-        "details"      : [],
-        "detail_thumbs"      : []
+        "details"      : ["images/gallery/SCN_0146_1.jpg","images/gallery/SCN_0146_2.jpg"],
+        "detail_thumbs"      : ["images/gallery/SCN_0146_1_thumb.jpg","images/gallery/SCN_0146_2_thumb.jpg"]
     },
     {
         "title"       : "How to plan your trip to Southern California",
@@ -456,8 +456,8 @@
         "description" : "How to make the most of winter playtime.",
         "slug"         : "southern-california-winter-playtime",
         "tags"        : ["All-Year Club of California"],
-        "details"      : ["images/gallery/SCN_0049_1.jpg"],
-        "detail_thumbs"      : ["images/gallery/SCN_0049_1_thumb.jpg"]
+        "details"      : ["images/gallery/SCN_0049_1.jpg","images/gallery/SCN_0049_2.jpg","images/gallery/SCN_0049_3.jpg","images/gallery/SCN_0049_4.jpg"],
+        "detail_thumbs"      : ["images/gallery/SCN_0049_1_thumb.jpg","images/gallery/SCN_0049_2_thumb.jpg","images/gallery/SCN_0049_3_thumb.jpg","images/gallery/SCN_0049_4_thumb.jpg"]
     },
     {
         "title"       : "Southern California - Another World",
@@ -516,6 +516,406 @@
         "description" : "From the Chambers of Commerce in Los Angeles County",
         "slug"         : "los-angeles-county-brochure",
         "tags"        : ["Los Angeles", "Brochure"],
+        "details"      : [],
+        "detail_thumbs"      : []
+    },
+    {
+        "title"       : "Catalina Welcomes You",
+        "image"       : "images/gallery/SCN_0142.jpg",
+        "thumb"       : "images/gallery/SCN_0142_thumb.jpg",
+        "description" : "Catalina welcomes you with friendly suggestions to help you get the most enjoyment from your visit",
+        "slug"         : "cataline-welcomes-your-brochure",
+        "tags"        : ["Catalina", "Brochure"],
+        "details"      : [],
+        "detail_thumbs"      : []
+    },
+    {
+        "title"       : "Plan Now for the Vacation of a Lifetime!",
+        "image"       : "images/gallery/SCN_0141.jpg",
+        "thumb"       : "images/gallery/SCN_0141_thumb.jpg",
+        "description" : "We all have a job to finish--but you can plan now for the vacation of a lifetime! Now is the time to plan for your vacation of a lifetime--postwar. And planning is half the fun--particularly with the new picture booklet: 'What To Do and See in Peacetime Southern California.'",
+        "slug"         : "southern-california-vacation-of-a-lifetime",
+        "tags"        : ["Southern California"],
+        "details"      : [],
+        "detail_thumbs"      : []
+    },
+    {
+        "title"       : "An Oasis in the Desert - Now Winter's Brilliant Playground",
+        "image"       : "images/gallery/SCN_0136.jpg",
+        "thumb"       : "images/gallery/SCN_0136_thumb.jpg",
+        "description" : "Sun-drenched days and romantic nights make winter plat-time memorable at Palm Springs.",
+        "slug"         : "oasis-desert-winters-brilliant-playground",
+        "tags"        : ["Palm Spriongs"],
+        "details"      : ["images/gallery/SCN_0136_1.jpg","images/gallery/SCN_0136_2.jpg","images/gallery/SCN_0136_3.jpg","images/gallery/SCN_0136_4.jpg"],
+        "detail_thumbs"      : ["images/gallery/SCN_0136_1_thumb.jpg","images/gallery/SCN_0136_2_thumb.jpg","images/gallery/SCN_0136_3_thumb.jpg","images/gallery/SCN_0136_4_thumb.jpg"]
+    },
+    {
+        "title"       : "How About a Change for a Change? Southern California",
+        "image"       : "images/gallery/SCN_0132.jpg",
+        "thumb"       : "images/gallery/SCN_0132_thumb.jpg",
+        "description" : "We Southern Californians visit you on our vacations. We know and love intimate green hills of New England, the peace and sentiment of the South, the wooded lakes of the Middle West, and the ruggest Northwest...",
+        "slug"         : "how-about-a-change-for-a-change-southern-california",
+        "tags"        : ["Southern California", "Palm Springs"],
+        "details"      : ["images/gallery/SCN_0132_1.jpg","images/gallery/SCN_0132_2.jpg","images/gallery/SCN_0132_3.jpg"],
+        "detail_thumbs"      : ["images/gallery/SCN_0132_1_thumb.jpg","images/gallery/SCN_0132_2_thumb.jpg","images/gallery/SCN_0132_3_thumb.jpg"]
+    },
+    {
+        "title"       : "Southern California ...through the camera... (front)",
+        "image"       : "images/gallery/SCN_0056.jpg",
+        "thumb"       : "images/gallery/SCN_0056_thumb.jpg",
+        "description" : "",
+        "slug"         : "southern-california-through-the-camera-front",
+        "tags"        : ["Southern California"],
+        "details"      : [],
+        "detail_thumbs"      : []
+    },
+    {
+        "title"       : "Southern California ...through the camera... (back)",
+        "image"       : "images/gallery/SCN_0057.jpg",
+        "thumb"       : "images/gallery/SCN_0057_thumb.jpg",
+        "description" : "",
+        "slug"         : "southern-california-through-the-camera-back",
+        "tags"        : ["Southern California"],
+        "details"      : [],
+        "detail_thumbs"      : []
+    },
+    {
+        "title"       : "Eleven Days in Cool Southern California (1931)",
+        "image"       : "images/gallery/SCN_0130.jpg",
+        "thumb"       : "images/gallery/SCN_0130_thumb.jpg",
+        "description" : "You can do it in a 2-weeks vacation. Free vacation plan-book gives details. Southern California this summer! A wonderland totally unline other playgrounds...",
+        "slug"         : "eleven-days-cool-southern-california",
+        "tags"        : ["Southern California"],
+        "details"      : ["images/gallery/SCN_0130_1.jpg","images/gallery/SCN_0130_2.jpg","images/gallery/SCN_0130_3.jpg","images/gallery/SCN_0130_4.jpg","images/gallery/SCN_0130_5.jpg"],
+        "detail_thumbs"      : ["images/gallery/SCN_0130_1_thumb.jpg","images/gallery/SCN_0130_2_thumb.jpg","images/gallery/SCN_0130_3_thumb.jpg","images/gallery/SCN_0130_4_thumb.jpg","images/gallery/SCN_0130_5_thumb.jpg"]
+    },
+    {
+        "title"       : "The Romance of California Brochure (Sacramento)",
+        "image"       : "images/gallery/SCN_0129.jpg",
+        "thumb"       : "images/gallery/SCN_0129_thumb.jpg",
+        "description" : "Issued by Sacramento Chamber of Commerce",
+        "slug"         : "romance-of-california-sacramento",
+        "tags"        : ["Sacramento"],
+        "details"      : [],
+        "detail_thumbs"      : []
+    },
+    {
+        "title"       : "Visit Your Western Wonderlands (Union Pacific Railroad)",
+        "image"       : "images/gallery/SCN_0127.jpg",
+        "thumb"       : "images/gallery/SCN_0127_thumb.jpg",
+        "description" : "Union Pacific serves more National Parks and western vacationlands than any other railroad. In the colorful regions picturs on this page, you will find a wealth of natural beaity together with a healthful and enjoyable recreation",
+        "slug"         : "visit-your-western-wonderlands-union-pacific",
+        "tags"        : ["Western Wonderlands", "Union Pacific", "Railroad"],
+        "details"      : ["images/gallery/SCN_0127_1.jpg","images/gallery/SCN_0127_2.jpg","images/gallery/SCN_0127_3.jpg","images/gallery/SCN_0127_4.jpg","images/gallery/SCN_0127_5.jpg","images/gallery/SCN_0127_6.jpg"],
+        "detail_thumbs"      : ["images/gallery/SCN_0127_1_thumb.jpg","images/gallery/SCN_0127_2_thumb.jpg","images/gallery/SCN_0127_3_thumb.jpg","images/gallery/SCN_0127_4_thumb.jpg","images/gallery/SCN_0127_5_thumb.jpg","images/gallery/SCN_0127_6_thumb.jpg"]
+    },
+    {
+        "title"       : "This Fall Join the Fun in Southern California!",
+        "image"       : "images/gallery/SCN_0126.jpg",
+        "thumb"       : "images/gallery/SCN_0126_thumb.jpg",
+        "description" : "In Fall, our 'second Summer', celebrations, rodeos and all kinds of festivities seem to start by spontaneous combustion throughout Southern California. It's a time when you can enjoy everything you've heard about here--a vacation time when gay, exciting things are going on.",
+        "slug"         : "this-fall-join-the-fun-southern-california",
+        "tags"        : ["All-Year Club"],
+        "details"      : ["images/gallery/SCN_0126_1.jpg","images/gallery/SCN_0126_2.jpg","images/gallery/SCN_0126_3.jpg","images/gallery/SCN_0126_4.jpg","images/gallery/SCN_0126_5.jpg"],
+        "detail_thumbs"      : ["images/gallery/SCN_0126_1_thumb.jpg","images/gallery/SCN_0126_2_thumb.jpg","images/gallery/SCN_0126_3_thumb.jpg","images/gallery/SCN_0126_4_thumb.jpg","images/gallery/SCN_0126_5_thumb.jpg"]
+    },
+    {
+        "title"       : "1908: Movie Industry Discovers Southern California",
+        "image"       : "images/gallery/SCN_0124.jpg",
+        "thumb"       : "images/gallery/SCN_0124_thumb.jpg",
+        "description" : "Maybe the movie pioneers didn't find their 'locations' as neatly labeled as we've indicated, but it's try they can find every type of the world's scenery within a few hours of Hollywood. These places you've on the screen mean to you a vacation playground of endless contrast and fascination.",
+        "slug"         : "movie-industry-discovers-southern-california",
+        "tags"        : ["All-Year Club"],
+        "details"      : ["images/gallery/SCN_0124_1.jpg","images/gallery/SCN_0124_2.jpg","images/gallery/SCN_0124_3.jpg","images/gallery/SCN_0124_4.jpg","images/gallery/SCN_0124_5.jpg","images/gallery/SCN_0124_6.jpg"],
+        "detail_thumbs"      : ["images/gallery/SCN_0124_1_thumb.jpg","images/gallery/SCN_0124_2_thumb.jpg","images/gallery/SCN_0124_3_thumb.jpg","images/gallery/SCN_0124_4_thumb.jpg","images/gallery/SCN_0124_5_thumb.jpg","images/gallery/SCN_0124_6_thumb.jpg"]
+    },
+    {
+        "title"       : "Western Airlines - Magic Holiday - San Diego",
+        "image"       : "images/gallery/SCN_0123.jpg",
+        "thumb"       : "images/gallery/SCN_0123_thumb.jpg",
+        "description" : "Everything under the sun -- for holiday fun!",
+        "slug"         : "western-airlines-magic-holiday-san-diego",
+        "tags"        : ["Western Airlines", "San Diego"],
+        "details"      : ["images/gallery/SCN_0123_1.jpg","images/gallery/SCN_0123_2.jpg","images/gallery/SCN_0123_3.jpg","images/gallery/SCN_0123_4.jpg","images/gallery/SCN_0123_5.jpg","images/gallery/SCN_0123_6.jpg"],
+        "detail_thumbs"      : ["images/gallery/SCN_0123_1_thumb.jpg","images/gallery/SCN_0123_2_thumb.jpg","images/gallery/SCN_0123_3_thumb.jpg","images/gallery/SCN_0123_4_thumb.jpg","images/gallery/SCN_0123_5_thumb.jpg","images/gallery/SCN_0123_6_thumb.jpg"]
+    },
+    {
+        "title"       : "California Brochure (Santa Fe Railroad)",
+        "image"       : "images/gallery/SCN_0055.jpg",
+        "thumb"       : "images/gallery/SCN_0055_thumb.jpg",
+        "description" : "",
+        "slug"         : "california-santa-fe",
+        "tags"        : ["Santa Fe Railroad", "Railroad"],
+        "details"      : ["images/gallery/SCN_0122_1.jpg","images/gallery/SCN_0122_2.jpg","images/gallery/SCN_0122_3.jpg"],
+        "detail_thumbs"      : ["images/gallery/SCN_0122_1_thumb.jpg","images/gallery/SCN_0122_2_thumb.jpg","images/gallery/SCN_0122_3_thumb.jpg"]
+    },
+    {
+        "title"        : "Southern California Year 'Round Vacation Land Supreme",
+        "image"        : "images/gallery/SCN_0120.jpg",
+        "thumb"        : "images/gallery/SCN_0120_thumb.jpg",
+        "description"  : "",
+        "slug"         : "southern-california-vacation-land-supreme",
+        "tags"         : ["All-Year Club"],
+        "details"      : ["images/gallery/SCN_0120_1.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0120_1_thumb.jpg"]
+    },
+    {
+        "title"        : "Los Angeles County California (front)",
+        "image"        : "images/gallery/SCN_0119a.jpg",
+        "thumb"        : "images/gallery/SCN_0119a_thumb.jpg",
+        "description"  : "",
+        "slug"         : "los-angeles-county-california-front",
+        "tags"         : ["All-Year Club"],
+        "details"      : ["images/gallery/SCN_0119a_1.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0119a_1_thumb.jpg"]
+    },
+    {
+        "title"        : "Los Angeles County California (back)",
+        "image"        : "images/gallery/SCN_0119b.jpg",
+        "thumb"        : "images/gallery/SCN_0119b_thumb.jpg",
+        "description"  : "",
+        "slug"         : "los-angeles-county-california-back",
+        "tags"         : ["All-Year Club"],
+        "details"      : ["images/gallery/SCN_0119b_1.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0119b_1_thumb.jpg"]
+    },
+    {
+        "title"        : "San Diego U.S. Grant Hotel (brochure)",
+        "image"        : "images/gallery/SCN_0118.jpg",
+        "thumb"        : "images/gallery/SCN_0118_thumb.jpg",
+        "description"  : "",
+        "slug"         : "san-diego-us-grant-hotel",
+        "tags"         : ["San Diego"],
+        "details"      : ["images/gallery/SCN_0118_1.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0118_1_thumb.jpg"]
+    },
+    {
+        "title"        : "Western Wonderlands (Union Pacific Railroad)",
+        "image"        : "images/gallery/SCN_0117.jpg",
+        "thumb"        : "images/gallery/SCN_0117_thumb.jpg",
+        "description"  : "",
+        "slug"         : "western-wonderlands-union-pacific",
+        "tags"         : ["Union Pacific", "Western Wonderlands"],
+        "details"      : [],
+        "detail_thumbs": []
+    },
+    {
+        "title"        : "Western Wonderlands (Union Pacific Railroad)",
+        "image"        : "images/gallery/SCN_0116.jpg",
+        "thumb"        : "images/gallery/SCN_0116_thumb.jpg",
+        "description"  : "",
+        "slug"         : "western-wonderlands-union-pacific-2",
+        "tags"         : ["Union Pacific", "Western Wonderlands"],
+        "details"      : ["images/gallery/SCN_0116_1.jpg","images/gallery/SCN_0116_2.jpg","images/gallery/SCN_0116_4.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0116_1_thumb.jpg","images/gallery/SCN_0116_2_thumb.jpg","images/gallery/SCN_0116_4_thumb.jpg"]
+    },
+    {
+        "title"        : "Southern California Spectacular '60'",
+        "image"        : "images/gallery/SCN_0115.jpg",
+        "thumb"        : "images/gallery/SCN_0115_thumb.jpg",
+        "description"  : "The unusual is all around you! Come any time! The fun lasts all year. Enjoy all our famous attractions...plus dozens of colorful exciting special events. There are hundreds of new, exciting vacation experiences all around you.",
+        "slug"         : "southern-california-spectacular-60",
+        "tags"         : ["All-Year Club"],
+        "details"      : ["images/gallery/SCN_0115_1.jpg","images/gallery/SCN_0115_2.jpg","images/gallery/SCN_0115_3.jpg","images/gallery/SCN_0115_4.jpg","images/gallery/SCN_0115_5.jpg","images/gallery/SCN_0115_6.jpg","images/gallery/SCN_0115_7.jpg","images/gallery/SCN_0115_8.jpg","images/gallery/SCN_0115_9.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0115_1_thumb.jpg","images/gallery/SCN_0115_2_thumb.jpg","images/gallery/SCN_0115_3_thumb.jpg","images/gallery/SCN_0115_4_thumb.jpg","images/gallery/SCN_0115_5_thumb.jpg","images/gallery/SCN_0115_6_thumb.jpg","images/gallery/SCN_0115_7_thumb.jpg","images/gallery/SCN_0115_8_thumb.jpg","images/gallery/SCN_0115_9_thumb.jpg"]
+    },
+    {
+        "title"        : "The Fun World of California",
+        "image"        : "images/gallery/SCN_0114.jpg",
+        "thumb"        : "images/gallery/SCN_0114_thumb.jpg",
+        "description"  : "The fun world of California.",
+        "slug"         : "fun-world-of-california",
+        "tags"         : ["All-Year Club"],
+        "details"      : ["images/gallery/SCN_0114_1.jpg","images/gallery/SCN_0114_2.jpg","images/gallery/SCN_0114_3.jpg","images/gallery/SCN_0114_4.jpg","images/gallery/SCN_0114_5.jpg","images/gallery/SCN_0114_6.jpg","images/gallery/SCN_0114_7.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0114_1_thumb.jpg","images/gallery/SCN_0114_2_thumb.jpg","images/gallery/SCN_0114_3_thumb.jpg","images/gallery/SCN_0114_4_thumb.jpg","images/gallery/SCN_0114_5_thumb.jpg","images/gallery/SCN_0114_6_thumb.jpg","images/gallery/SCN_0114_7_thumb.jpg"]
+    },
+    {
+        "title"        : "California - Where Life is Better Each Year",
+        "image"        : "images/gallery/SCN_0113.jpg",
+        "thumb"        : "images/gallery/SCN_0113_thumb.jpg",
+        "description"  : "Where life is better each year. Why are Californias so prosperous? Why have we more automobiles, more telephones and electric connections?",
+        "slug"         : "california-where-life-is-better-each-year",
+        "tags"         : ["Californians"],
+        "details"      : ["images/gallery/SCN_0113_1.jpg","images/gallery/SCN_0113_2.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0113_1_thumb.jpg","images/gallery/SCN_0113_2_thumb.jpg"]
+    },
+    {
+        "title"        : "American Airlines to California",
+        "image"        : "images/gallery/SCN_0109.jpg",
+        "thumb"        : "images/gallery/SCN_0109_thumb.jpg",
+        "description"  : "American Airlines travel poster for California.",
+        "slug"         : "american-airlines-to-california",
+        "tags"         : ["Airlines"],
+        "details"      : [],
+        "detail_thumbs": []
+    },
+    {
+        "title"        : "Santa Catalina - Scenic Riviera",
+        "image"        : "images/gallery/SCN_0108.jpg",
+        "thumb"        : "images/gallery/SCN_0108_thumb.jpg",
+        "description"  : "Catalina - Now see Santa Catalina the scenic riveria of the U.S.A...yet only a short delightful voyage from Los Angeles.",
+        "slug"         : "santa-catalina-scenic-riviera",
+        "tags"         : [],
+        "details"      : ["images/gallery/SCN_0108_1.jpg","images/gallery/SCN_0108_2.jpg","images/gallery/SCN_0108_3.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0108_1_thumb.jpg","images/gallery/SCN_0108_2_thumb.jpg","images/gallery/SCN_0108_3_thumb.jpg"]
+    },
+    {
+        "title"        : "California - America's Vacation Land",
+        "image"        : "images/gallery/SCN_0106.jpg",
+        "thumb"        : "images/gallery/SCN_0106_thumb.jpg",
+        "description"  : "New York Central Lines Travel Poster",
+        "slug"         : "california-americas-vacation-land",
+        "tags"         : [],
+        "details"      : ["images/gallery/SCN_0106_1.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0106_1_thumb.jpg"]
+    },
+    {
+        "title"        : "National Orange Show",
+        "image"        : "images/gallery/SCN_0105.jpg",
+        "thumb"        : "images/gallery/SCN_0105_thumb.jpg",
+        "description"  : "California's Midwinter - Greatest Event - Third National Orange Show - Reduced Rates on All Railroads - San Bernardino California - Feb. 17-22, 1913",
+        "slug"         : "california-national-orange-show",
+        "tags"         : [],
+        "details"      : [],
+        "detail_thumbs": []
+    },
+    {
+        "title"        : "Tournamet of Roses - Pasadena California",
+        "image"        : "images/gallery/SCN_0061.jpg",
+        "thumb"        : "images/gallery/SCN_0061_thumb.jpg",
+        "description"  : "Tournament of Roses - Pasadena, Cal. - Midwinter Floral Pageant - Roman Chariot Races - New Years Day Jan 1st, 1912",
+        "slug"         : "california-tournament-of-roses",
+        "tags"         : [],
+        "details"      : [],
+        "detail_thumbs": []
+    },
+    {
+        "title"        : "California - Travel by Train",
+        "image"        : "images/gallery/SCN_0103.jpg",
+        "thumb"        : "images/gallery/SCN_0103_thumb.jpg",
+        "description"  : "California This Summer - Travel by Train",
+        "slug"         : "california-travel-by-train",
+        "tags"         : [],
+        "details"      : ["images/gallery/SCN_0103_1.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0103_1_thumb.jpg"]
+    },
+    {
+        "title"        : "San Diego 1916 Exposition",
+        "image"        : "images/gallery/SCN_0064.jpg",
+        "thumb"        : "images/gallery/SCN_0064_thumb.jpg",
+        "description"  : "San Diego 1916 Exposition - Dedication March 18th - New International Exposition",
+        "slug"         : "san-diego-exposition-1916",
+        "tags"         : [],
+        "details"      : ["images/gallery/SCN_0064_1.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0064_1_thumb.jpg"]
+    },
+    {
+        "title"        : "United Air Lines - Southern California",
+        "image"        : "images/gallery/SCN_0101.jpg",
+        "thumb"        : "images/gallery/SCN_0101_thumb.jpg",
+        "description"  : "United Air Lines Travel Poster Southern California",
+        "slug"         : "united-air-lines-southern-california",
+        "tags"         : [],
+        "details"      : [],
+        "detail_thumbs": []
+    },
+    {
+        "title"        : "To California and Back",
+        "image"        : "images/gallery/SCN_0100.jpg",
+        "thumb"        : "images/gallery/SCN_0100_thumb.jpg",
+        "description"  : "To California and Back Travel Book",
+        "slug"         : "to-california-and-back-travel-book",
+        "tags"         : [],
+        "details"      : [],
+        "detail_thumbs": []
+    },
+    {
+        "title"        : "California Picture Book",
+        "image"        : "images/gallery/SCN_0144.jpg",
+        "thumb"        : "images/gallery/SCN_0144_thumb.jpg",
+        "description"  : "California Picture Book - Santa Fe Railroad - 1925",
+        "slug"         : "california-picture-book-santa-fe",
+        "tags"         : ["Santa Fe Railroad", "Railroad"],
+        "details"      : [],
+        "detail_thumbs": []
+    },
+    {
+        "title"        : "California Has a Lure that is Stronger than Gold",
+        "image"        : "images/gallery/SCN_0073.jpg",
+        "thumb"        : "images/gallery/SCN_0073_thumb.jpg",
+        "description"  : "California has a lure that is stronger than gold - Saturday Evening Post - October 31, 1936",
+        "slug"         : "california-lure",
+        "tags"         : [],
+        "details"      : [],
+        "detail_thumbs": []
+    },
+    {
+        "title"        : "How to see twice as much of America on your train trip to California!",
+        "image"        : "images/gallery/SCN_0074.jpg",
+        "thumb"        : "images/gallery/SCN_0074_thumb.jpg",
+        "description"  : "Southern Pacific Railroad - Saturday Evening Post - April 19, 1941",
+        "slug"         : "southern-pacific-see-twice-as-much-california",
+        "tags"         : ["Southern Pacific Railroad", "Railroad"],
+        "details"      : ["images/gallery/SCN_0074_1.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0074_1_thumb.jpg"]
+    },
+    {
+        "title"        : "Come to Arizona and California",
+        "image"        : "images/gallery/SCN_0075.jpg",
+        "thumb"        : "images/gallery/SCN_0075_thumb.jpg",
+        "description"  : "Come to Arizona and California...on the swift Golden State - Golden State is the only streamliner direct to Tuscon, Phoenix and Palm Springs. It starts you on this wonderful Great Circle Tour of the West, which you can combine with your next Arizona-California trip. The friendly Southern Pacific",
+        "slug"         : "southern-pacific-arizona-california",
+        "tags"         : ["Southern Pacific Railroad", "Railroad"],
+        "details"      : [],
+        "detail_thumbs": []
+    },
+    {
+        "title"        : "Spring in Southern California",
+        "image"        : "images/gallery/SCN_0076.jpg",
+        "thumb"        : "images/gallery/SCN_0076_thumb.jpg",
+        "description"  : "Look what we've just discovered! Spring in Southern California. Yes, Spring in Los Angeles County and all Southern California is chock-full of color...sunshine...and exciting things to do.",
+        "slug"         : "spring-in-southern-california",
+        "tags"         : ["All-Year Club of California"],
+        "details"      : ["images/gallery/SCN_0076_1.jpg","images/gallery/SCN_0076_2.jpg","images/gallery/SCN_0076_3.jpg","images/gallery/SCN_0076_4.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0076_1_thumb.jpg","images/gallery/SCN_0076_2_thumb.jpg","images/gallery/SCN_0076_3_thumb.jpg","images/gallery/SCN_0076_4_thumb.jpg"]
+    },
+    {
+        "title"        : "To Help You Plan Your Vacation - Union Pacific Railroad",
+        "image"        : "images/gallery/SCN_0077.jpg",
+        "thumb"        : "images/gallery/SCN_0077_thumb.jpg",
+        "description"  : "California - The glamorous Golden State...bordered by the blue Pacific. rom dawn to dusk, always something to see and do.",
+        "slug"         : "plan-your-california-vacation-union-pacific",
+        "tags"         : ["Union Pacific Railroad", "Railroad"],
+        "details"      : ["images/gallery/SCN_0077_1.jpg","images/gallery/SCN_0077_2.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0077_1_thumb.jpg","images/gallery/SCN_0077_2_thumb.jpg"]
+    },
+    {
+        "title"        : "Winter Playground - Southen California",
+        "image"        : "images/gallery/SCN_0078.jpg",
+        "thumb"        : "images/gallery/SCN_0078_thumb.jpg",
+        "description"  : "They know the whole world and this is their winter playground. Because it offers so many ways of making winter play-time memorable. Connoisseurs of vacations come here because Southern California combines the elements of half-a-dozen vacations in one. You'll learn the mysteroious fascination of the sun-drenches winter dester, learn why its California oases like Palm Springs are brilliant gathering places for those who know the art of getting the most out of life. ",
+        "slug"         : "winter-playground-southern-california",
+        "tags"         : ["All-Year Club of California"],
+        "details"      : ["images/gallery/SCN_0078_1.jpg","images/gallery/SCN_0078_2.jpg","images/gallery/SCN_0078_3.jpg","images/gallery/SCN_0078_4.jpg"],
+        "detail_thumbs": ["images/gallery/SCN_0078_1_thumb.jpg","images/gallery/SCN_0078_2_thumb.jpg","images/gallery/SCN_0078_3_thumb.jpg","images/gallery/SCN_0078_4_thumb.jpg"]
+    },
+    {
+        "title"       : "Southen California (Santa Fe Railroad Poster)",
+        "image"       : "images/gallery/SCN_0072.jpg",
+        "thumb"       : "images/gallery/SCN_0072_thumb.jpg",
+        "description" : "",
+        "slug"         : "southern-california-santa-fe",
+        "tags"        : ["Santa Fe Railroad", "Railroad"],
+        "details"      : [],
+        "detail_thumbs"      : []
+    },
+    {
+        "title"       : "California Beaches (Southern Pacific Railroad Poster)",
+        "image"       : "images/gallery/SCN_0065.jpg",
+        "thumb"       : "images/gallery/SCN_0065_thumb.jpg",
+        "description" : "Southern Pacific Railroad Travel poster by Maurice Logan",
+        "slug"         : "california-beaches-southern-pacific",
+        "tags"        : ["Santa Fe Railroad", "Railroad"],
         "details"      : [],
         "detail_thumbs"      : []
     }

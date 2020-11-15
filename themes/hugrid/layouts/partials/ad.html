@@ -1,10 +1,10 @@
 
   <div class="nav-links">
     <div class="nextprev-link prev">
-      {{with .Site.RegularPages.Prev . }}<a href="{{.RelPermalink}}">&lt; Previous</a>{{end}}
+      {{with .Site.RegularPages.Next . }}<a href="{{.RelPermalink}}">&lt; Previous</a>{{end}}
     </div>
     <div class="nextprev-link next">
-      {{with .Site.RegularPages.Next . }}<a href="{{.RelPermalink}}">Next &gt;</a>{{end}}
+      {{with .Site.RegularPages.Prev . }}<a href="{{.RelPermalink}}">Next &gt;</a>{{end}}
     </div>
   </div>
 
