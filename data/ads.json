@@ -1,9 +1,79 @@
 [
     {
+        "title"         : "California - Where Life is Better (1928)",
+        "image"         : "images/gallery/SCN_0152.jpg",
+        "thumb"         : "images/gallery/SCN_0152_thumb.jpg",
+        "description"   : "",
+        "slug"          : "southern-where-life-is-better",
+        "tags"          : ["Californians Inc.", "Brochure"],
+        "details"       : ["images/gallery/SCN_0152_1.jpg"],
+        "detail_thumbs" : ["images/gallery/SCN_0152_1_thumb.jpg"]
+    },
+    {
+        "title"       : "Southern California Through the Camera",
+        "image"       : "images/gallery/SCN_0151.jpg",
+        "thumb"       : "images/gallery/SCN_0151_thumb.jpg",
+        "description" : "",
+        "slug"         : "southern-california-through-the-camera-2",
+        "tags"        : ["All-Year Club of Southern California", "Brochure"],
+        "details"      : [],
+        "detail_thumbs"      : []
+    },
+    {
+        "title"       : "California - Union Pacific System Overland (1929)",
+        "image"       : "images/gallery/SCN_0150.jpg",
+        "thumb"       : "images/gallery/SCN_0150_thumb.jpg",
+        "description" : "",
+        "slug"         : "california-union-pacific-overland",
+        "tags"        : ["All-Year Club of Southern California", "Brochure"],
+        "details"      : ["images/gallery/SCN_0150_1.jpg", "images/gallery/SCN_0150_2.jpg", "images/gallery/SCN_0150_3.jpg"],
+        "detail_thumbs"      : ["images/gallery/SCN_0150_1_thumb.jpg", "images/gallery/SCN_0150_2_thumb.jpg", "images/gallery/SCN_0150_3_thumb.jpg"]
+    },
+    {
+        "title"       : "Southern California Year 'round Vacation Land Supreme (1925)",
+        "image"       : "images/gallery/SCN_0149.jpg",
+        "thumb"       : "images/gallery/SCN_0149_thumb.jpg",
+        "description" : "",
+        "slug"         : "pasadena-summer-winter",
+        "tags"        : ["All-Year Club of Southern California", "Brochure"],
+        "details"      : ["images/gallery/SCN_0149_1.jpg"],
+        "detail_thumbs"      : ["images/gallery/SCN_0149_1.jpg"]
+    },
+    {
+        "title"       : "Pasadena - California at its best! Summer & Winter",
+        "image"       : "images/gallery/SCN_0148.jpg",
+        "thumb"       : "images/gallery/SCN_0148_thumb.jpg",
+        "description" : "",
+        "slug"         : "pasadena-summer-winter",
+        "tags"        : ["Pasadena", "Brochure"],
+        "details"      : [],
+        "detail_thumbs"      : []
+    },
+    {
+        "title"       : "San Diego Panama-California Exposition (All the Year, San Diego 1915)",
+        "image"       : "images/gallery/SCN_0147.jpg",
+        "thumb"       : "images/gallery/SCN_0147_thumb.jpg",
+        "description" : "",
+        "slug"         : "panama-california-exposition-san-diego",
+        "tags"        : ["Panama Exposition", "San Diego", "Balboa Park"],
+        "details"      : [],
+        "detail_thumbs"      : []
+    },
+    {
+        "title"       : "Los Angeles County Brochure (1931)",
+        "image"       : "images/gallery/SCN_0143.jpg",
+        "thumb"       : "images/gallery/SCN_0143_thumb.jpg",
+        "description" : "Los Angeles Chamber of Commerce. Artist: Chris Siemer (1931)",
+        "slug"         : "los-angeles-county-chamber-commerce-1931",
+        "tags"        : ["Los Angeles", "Brochure"],
+        "details"      : [],
+        "detail_thumbs"      : []
+    },
+    {
         "title"       : "Plan for the vacation of a lifetime!",
         "image"       : "images/gallery/SCN_0017.jpg",
         "thumb"       : "images/gallery/SCN_0017_thumb.jpg",
-        "description" : "Now is the time to plan for your vacation of a lifetime--postwar. And planning is half the fun, especially with the ??? picture booklet.",
+        "description" : "",
         "slug"         : "plan-for-the-vacation-lifetime",
         "tags"        : ["All-Year Club of California"],
         "details"      : ["images/gallery/SCN_0017_1.jpg"],
@@ -13,7 +83,7 @@
         "title"       : "California hangs out the welcome sign",
         "image"       : "images/gallery/SCN_0002.jpg",
         "thumb"       : "images/gallery/SCN_0002_thumb.jpg",
-        "description" : "Now is the time to plan for your vacation of a lifetime--postwar. And planning is half the fun, especially with the ??? picture booklet.",
+        "description" : "Now is the time to plan for your vacation of a lifetime--postwar. And planning is half the fun, especially with the travel picture booklet.",
         "slug"         : "california-hangs-out-welcome-sign",
         "tags"        : ["Railroad"],
         "details"      : [],
@@ -735,7 +805,7 @@
         "thumb"        : "images/gallery/SCN_0113_thumb.jpg",
         "description"  : "Where life is better each year. Why are Californias so prosperous? Why have we more automobiles, more telephones and electric connections?",
         "slug"         : "california-where-life-is-better-each-year",
-        "tags"         : ["Californians"],
+        "tags"         : ["Californians Inc."],
         "details"      : ["images/gallery/SCN_0113_1.jpg","images/gallery/SCN_0113_2.jpg"],
         "detail_thumbs": ["images/gallery/SCN_0113_1_thumb.jpg","images/gallery/SCN_0113_2_thumb.jpg"]
     },

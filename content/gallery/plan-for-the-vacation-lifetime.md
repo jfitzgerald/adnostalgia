@@ -1,5 +1,5 @@
 {
-  "description" : "Now is the time to plan for your vacation of a lifetime--postwar. And planning is half the fun, especially with the ??? picture booklet.",
+  "description" : "",
   "detail_thumbs" : [
                        "images/gallery/SCN_0017_1_thumb.jpg"
                      ],

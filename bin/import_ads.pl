@@ -6,8 +6,14 @@ use ADNConfig;
 
 use Data::Dumper;
 
+## Resizes scanned images to size suitable for web.
+## Processes accompanying images (*_\d.jpg) and creates
+## thumb nail images (*_thumb.jpg).
+
 ## example:
 ## perl import_ads.pl < imageList.txt > import_log
+##
+## For new images:
 ## perl import_ads.pl new/SCN_130.jpg
 ##
 

@@ -11,7 +11,7 @@
   "image" : "images/gallery/SCN_0113.jpg",
   "slug" : "california-where-life-is-better-each-year",
   "tags" : [
-              "Californians"
+              "Californians Inc."
             ],
   "thumb" : "images/gallery/SCN_0113_thumb.jpg",
   "title" : "California - Where Life is Better Each Year",
