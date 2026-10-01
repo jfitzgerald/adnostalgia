@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>All-Year Club on Ad Nostalgia</title>
+		<link>http://localhost:1313/tags/all-year-club/</link>
+		<description>Recent content in All-Year Club on Ad Nostalgia</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/tags/all-year-club/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>This Fall Join the Fun in Southern California!</title>
+				<link>http://localhost:1313/gallery/this-fall-join-the-fun-southern-california/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/gallery/this-fall-join-the-fun-southern-california/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>1908: Movie Industry Discovers Southern California</title>
+				<link>http://localhost:1313/gallery/movie-industry-discovers-southern-california/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/gallery/movie-industry-discovers-southern-california/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Southern California Year &#39;Round Vacation Land Supreme</title>
+				<link>http://localhost:1313/gallery/southern-california-vacation-land-supreme/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/gallery/southern-california-vacation-land-supreme/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Southern California Spectacular &#39;60&#39;</title>
+				<link>http://localhost:1313/gallery/southern-california-spectacular-60/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/gallery/southern-california-spectacular-60/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The Fun World of California</title>
+				<link>http://localhost:1313/gallery/fun-world-of-california/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/gallery/fun-world-of-california/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Los Angeles County California (back)</title>
+				<link>http://localhost:1313/gallery/los-angeles-county-california-back/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/gallery/los-angeles-county-california-back/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Los Angeles County California (front)</title>
+				<link>http://localhost:1313/gallery/los-angeles-county-california-front/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/gallery/los-angeles-county-california-front/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

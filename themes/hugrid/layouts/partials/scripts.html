@@ -1,7 +1,8 @@
-  <script src="{{ .Site.BaseURL }}js/lightbox-plus-jquery.min.js"></script>
+  <script src="{{ "js/lightbox-plus-jquery.min.js" | relURL }}"></script>
   <script>
       lightbox.option({
         'resizeDuration': 300,
         'wrapAround': true
       })
   </script>
+  {{ if eq .Section "gallery" }}<script src="{{ "js/gallery.js" | relURL }}"></script>{{ end }}

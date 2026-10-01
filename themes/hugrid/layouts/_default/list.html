@@ -1,11 +1,62 @@
 {{ define "main" }}
-<ul id="og-grid" class="og-grid">
-  {{ range .Pages }}
-  <li>
-    <a href="{{.Permalink}}/">
-      <img src="/{{.Params.thumb}}" alt="{{.Title}}"/>
+{{ if eq .Kind "section" }}
+<header class="collection-intro">
+  <div>
+    <p class="eyebrow">Digital collection</p>
+    <h1>The Collection</h1>
+  </div>
+  <p>Browse {{ len .Pages }} examples of Southern California travel advertising and ephemera, spanning railroads, airlines, resorts, civic boosters, and roadside culture.</p>
+</header>
+
+<div class="collection-tools" data-gallery-tools>
+  <label class="search-field">
+    <span class="sr-only">Search the collection</span>
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4 4"></path></svg>
+    <input type="search" placeholder="Search titles, places, or formats" autocomplete="off" data-gallery-search>
+  </label>
+  <label class="filter-field">
+    <span>Filter by subject</span>
+    <select data-gallery-filter>
+      <option value="">All subjects</option>
+      {{ range $name, $taxonomy := .Site.Taxonomies.tags }}<option value="{{ $name | lower }}">{{ $name }} ({{ len $taxonomy.Pages }})</option>{{ end }}
+    </select>
+  </label>
+  <p class="result-count" aria-live="polite"><span data-gallery-count>{{ len .Pages }}</span> objects</p>
+</div>
+
+<ol class="collection-grid" data-gallery-grid>
+  {{ range $i, $page := .Pages }}
+  <li class="collection-card" data-gallery-item data-search="{{ lower (printf "%s %s %s" .Title .Params.description (delimit .Params.tags " ")) }}" data-tags="{{ lower (delimit .Params.tags "|") }}">
+    <a href="{{ .RelPermalink }}" class="collection-card__link">
+      <div class="collection-card__image">
+        <img src="{{ .Params.thumb | relURL }}" alt="{{ .Title }}" loading="lazy" decoding="async">
+        <span class="view-cue">View object <span aria-hidden="true">&#8599;</span></span>
+      </div>
+      <div class="collection-card__meta">
+        <p class="object-number">Object {{ printf "%03d" (add $i 1) }}</p>
+        <h2>{{ .Title }}</h2>
+        {{ with .Params.tags }}<p class="object-tags">{{ delimit (first 2 .) " · " }}</p>{{ end }}
+      </div>
     </a>
   </li>
   {{ end }}
-</ul>
+</ol>
+<div class="empty-state" data-gallery-empty hidden>
+  <p class="eyebrow">No objects found</p>
+  <h2>Try a broader search.</h2>
+  <button type="button" data-gallery-reset>Clear search and filters</button>
+</div>
+{{ else }}
+<header class="collection-intro">
+  <div><p class="eyebrow">Browse by subject</p><h1>{{ .Title }}</h1></div>
+</header>
+<ol class="collection-grid">
+  {{ range .Pages }}
+  <li class="collection-card"><a href="{{ .RelPermalink }}" class="collection-card__link">
+    {{ with .Params.thumb }}<div class="collection-card__image"><img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy"></div>{{ end }}
+    <div class="collection-card__meta"><h2>{{ .Title }}</h2></div>
+  </a></li>
+  {{ end }}
+</ol>
+{{ end }}
 {{ end }}

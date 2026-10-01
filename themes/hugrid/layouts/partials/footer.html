@@ -1,3 +1,9 @@
-<footer>			
-	{{ with .Site.Params.footertext }}{{ . | markdownify }}{{ end }}
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <span class="footer-mark">AN</span>
+      <p>{{ with .Site.Params.footertext }}{{ . | markdownify }}{{ end }}</p>
+    </div>
+    <a href="#main-content">Back to top <span aria-hidden="true">&#8593;</span></a>
+  </div>
 </footer>

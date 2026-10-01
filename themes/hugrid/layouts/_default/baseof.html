@@ -1,18 +1,20 @@
 <!DOCTYPE html>
-<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<html lang="{{ with .Site.Language.Locale }}{{ . }}{{ else }}en-US{{ end }}">
 	<head>
 	{{ partial "head.html" . }}
 	</head>
-	<body>
-    <div class="sticky header">
+	<body class="{{ if .IsHome }}home-page{{ else if eq .Section "gallery" }}gallery-page{{ end }}">
+    <a class="skip-link" href="#main-content">Skip to collection</a>
+    <header class="site-header">
       {{ partial "header.html" . }}
-    </div>
-		<div class="container">	
-			<div class="main">
+		</header>
+		<div class="site-shell">
+			<main class="main" id="main-content">
 			{{ block "main" . }}
 			{{ end }}
-			</div>
+			</main>
 		</div>
+    {{ partial "footer.html" . }}
   {{ partial "scripts.html" . }}
 	</body>
 </html>

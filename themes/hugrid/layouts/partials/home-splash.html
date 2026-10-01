@@ -1,8 +1,22 @@
-<div class="splash">
-  <div class="splash-image">
-    <img src="/images/adnostalgia_home.jpg">
+<section class="home-hero" aria-labelledby="home-title">
+  <div class="home-hero__image">
+    <img src="{{ "images/adnostalgia_home.jpg" | relURL }}" alt="Illustrated vintage Southern California travel advertisement showing a coastal landscape" width="475" height="410">
+    <span class="image-credit">Private collection</span>
   </div>
-  <div class="splash-details"><a href="/gallery/">Enter Gallery</a>
-    <p><strong>Welcome to AdNostalgia.com</strong> -- a gallery of vintage Southern California advertisements from the 1930's, 1940's, and 1950's.  This collection of advertisements is rich with colorful landscapes and eye-catching scenery depicting the idyllic vacation setting of Southern California.</p>
+  <div class="home-hero__copy">
+    <p class="eyebrow">A visual archive · 1910s–1960s</p>
+    <h1 id="home-title">California,<br><em>as imagined.</em></h1>
+    <p class="home-deck">Explore a private collection of vintage travel advertisements, brochures, and printed ephemera that sold Southern California as a place of endless possibility.</p>
+    <a class="button button--primary" href="{{ "/gallery/" | relURL }}">Explore the collection <span aria-hidden="true">&#8594;</span></a>
+    <dl class="collection-facts">
+      <div><dt>Collection</dt><dd>{{ len (where .Site.RegularPages "Section" "gallery") }} objects</dd></div>
+      <div><dt>Focus</dt><dd>Southern California</dd></div>
+      <div><dt>Formats</dt><dd>Print &amp; ephemera</dd></div>
+    </dl>
   </div>
-</div>
+</section>
+<section class="home-note" aria-labelledby="archive-heading">
+  <p class="eyebrow">About the archive</p>
+  <h2 id="archive-heading">Sunshine, speed, and the promise of the West</h2>
+  <p>These images offer a window into the visual language used to shape Southern California’s public imagination. Browse the collection to examine the artwork, typography, destinations, and aspirations preserved in each piece.</p>
+</section>
