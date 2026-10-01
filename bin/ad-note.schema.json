@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Ad Nostalgia generated image note",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["note"],
+  "properties": {
+    "note": {
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}

@@ -12,6 +12,29 @@ Test the site in docs/
 python -m SimpleHTTPServer
 ```
 
+# Generate AI image notes
+
+`generate_ad_notes.py` processes each primary ad image in a separate Codex CLI
+run and stores the resulting text in the ad's `generated_note` field in
+`data/ads.json`. The batch is resumable and writes the data file atomically
+after every successful image.
+
+Preview the batch without calling Codex:
+
+```bash
+python3 bin/generate_ad_notes.py --dry-run --limit 5
+```
+
+Once an analysis prompt has been added, generate notes with:
+
+```bash
+python3 bin/generate_ad_notes.py --prompt path/to/ad-note-prompt.md
+```
+
+Use `--include-details` to attach each ad's additional scans after the primary
+image, `--only SCN_0152` to process one ad, or `--retry-failures` to retry only
+failed records. Existing non-empty notes are skipped unless `--force` is used.
+
 # ImageMagick
 
 For compilers to find imagemagick@6 you may need to set:

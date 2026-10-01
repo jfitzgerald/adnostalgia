@@ -1,5 +1,5 @@
 baseURL = "http://www.adnostalgia.com/"
-languageCode = "en-us"
+locale = "en-US"
 title = "Ad Nostalgia"
 theme = "hugrid"
 
@@ -56,19 +56,19 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Hugrid - a simple grid theme for Hugo"
-    subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-    author = "Pavel Kanyshev"
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
-    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
+    title = "Ad Nostalgia"
+    subtitle = "A visual archive of Southern California travel ephemera"
+    author = "Ad Nostalgia"
+    description = "A gallery of vintage Southern California travel advertisements, brochures, and ephemera."
+    keywords = "Southern California, vintage travel, advertising, ephemera, archive"
 
     # Body background color
-    bodybgcolor = "#f9f9f9"
+    bodybgcolor = "#f4f0e8"
 
     # Preview container button text
     buttontext = "Read the Ad"
 
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+    footertext = "A private collection of Southern California travel ephemera."
 
     # add extra-css

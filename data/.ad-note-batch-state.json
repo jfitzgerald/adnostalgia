@@ -1,0 +1,1193 @@
+{
+  "version": 1,
+  "ads": {
+    "SCN_0152": {
+      "status": "complete",
+      "updated_at": "2026-10-01T01:54:05+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0152.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0152.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0151": {
+      "status": "complete",
+      "updated_at": "2026-10-01T01:54:17+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0151.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0151.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0150": {
+      "status": "complete",
+      "updated_at": "2026-10-01T01:54:27+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0150.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0150.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0149": {
+      "status": "complete",
+      "updated_at": "2026-10-01T01:54:40+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0149.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0149.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0148": {
+      "status": "complete",
+      "updated_at": "2026-10-01T01:54:54+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0148.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0148.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0147": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:20:57+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0147.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0147.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0143": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:21:09+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0143.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0143.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0017": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:21:21+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0017.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0017.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0002": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:21:32+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0002.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0002.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0004": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:21:48+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0004.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0004.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0005": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:21:59+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0005.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0005.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0006": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:22:09+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0006.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0006.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0007": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:22:22+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0007.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0007.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0008": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:22:34+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0008.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0008.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0009": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:22:46+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0009.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0009.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0011": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:22:57+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0011.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0011.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0013": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:23:09+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0013.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0013.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0014": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:23:21+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0014.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0014.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0015": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:23:37+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0015.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0015.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0016": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:23:50+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0016.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0016.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0018": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:24:03+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0018.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0018.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0019": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:24:15+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0019.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0019.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0020": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:24:28+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0020.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0020.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0021": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:24:40+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0021.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0021.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0022": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:24:54+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0022.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0022.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0145": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:25:09+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0145.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0145.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0146": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:25:19+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0146.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0146.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0024": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:25:32+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0024.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0024.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0025": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:25:46+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0025.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0025.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0026": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:25:57+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0026.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0026.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0027": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:26:08+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0027.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0027.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0028": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:26:20+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0028.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0028.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0029": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:26:34+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0029.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0029.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0030": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:26:51+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0030.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0030.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0031": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:27:08+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0031.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0031.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0032": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:29:31+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0032.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0032.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0033": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:29:53+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0033.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0033.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0034": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:30:06+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0034.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0034.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0035": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:30:18+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0035.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0035.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0036": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:30:34+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0036.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0036.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0037": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:30:50+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0037.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0037.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0038": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:31:01+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0038.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0038.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0039": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:31:17+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0039.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0039.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0040": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:31:29+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0040.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0040.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0041": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:31:41+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0041.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0041.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0042": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:31:52+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0042.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0042.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0043": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:32:05+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0043.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0043.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0044": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:32:16+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0044.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0044.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0045": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:32:27+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0045.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0045.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0046": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:32:39+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0046.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0046.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0047": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:32:52+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0047.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0047.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0048": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:33:03+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0048.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0048.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0049": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:33:16+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0049.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0049.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0050": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:33:27+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0050.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0050.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0051": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:33:38+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0051.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0051.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0052": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:33:55+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0052.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0052.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0053": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:34:09+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0053.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0053.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0054": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:34:24+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0054.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0054.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0140": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:34:36+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0140.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0140.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0142": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:34:50+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0142.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0142.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0141": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:35:03+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0141.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0141.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0136": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:35:16+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0136.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0136.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0132": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:35:29+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0132.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0132.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0056": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:35:42+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0056.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0056.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0057": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:35:56+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0057.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0057.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0130": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:36:10+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0130.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0130.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0129": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:36:22+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0129.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0129.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0127": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:36:34+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0127.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0127.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0126": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:36:48+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0126.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0126.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0124": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:37:06+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0124.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0124.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0123": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:37:19+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0123.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0123.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0055": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:37:31+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0055.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0055.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0120": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:37:46+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0120.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0120.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0119a": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:37:59+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0119a.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0119a.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0119b": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:38:11+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0119b.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0119b.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0118": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:38:25+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0118.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0118.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0117": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:38:37+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0117.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0117.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0116": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:38:48+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0116.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0116.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0115": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:39:02+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0115.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0115.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0114": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:39:15+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0114.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0114.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0113": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:39:28+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0113.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0113.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0109": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:39:40+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0109.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0109.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0108": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:39:54+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0108.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0108.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0106": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:40:08+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0106.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0106.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0105": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:40:20+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0105.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0105.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0061": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:40:31+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0061.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0061.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0103": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:40:45+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0103.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0103.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0064": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:40:59+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0064.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0064.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0101": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:41:10+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0101.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0101.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0100": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:41:22+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0100.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0100.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0144": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:41:37+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0144.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0144.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0073": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:41:50+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0073.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0073.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0074": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:42:04+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0074.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0074.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0075": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:42:17+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0075.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0075.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0076": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:42:28+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0076.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0076.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0077": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:42:41+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0077.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0077.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0078": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:42:54+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0078.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0078.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0072": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:43:05+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0072.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0072.jpg"
+      ],
+      "error": null
+    },
+    "SCN_0065": {
+      "status": "complete",
+      "updated_at": "2026-10-01T02:43:17+00:00",
+      "prompt_version": "1",
+      "model": "codex-config-default",
+      "attempts": 1,
+      "source_image": "images/gallery/SCN_0065.jpg",
+      "context_images": [
+        "/Users/jfitzgerald/Code/adnostalgia/static/images/gallery/SCN_0065.jpg"
+      ],
+      "error": null
+    }
+  }
+}

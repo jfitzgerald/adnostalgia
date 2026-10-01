@@ -1,13 +1,14 @@
 <!DOCTYPE html>
-<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<html lang="{{ with .Site.Language.Locale }}{{ . }}{{ else }}en-US{{ end }}">
 	<head>
 	{{ partial "head.html" . }}
 	{{ template "_internal/google_analytics.html" . }}
 	</head>
-	<body>
-			<div class="main">
-      {{ partial "home-splash.html" . }}
-			</div>
+	<body class="home-page">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header site-header--home">{{ partial "header.html" . }}</header>
+    <main class="main" id="main-content">{{ partial "home-splash.html" . }}</main>
+		{{ partial "footer.html" . }}
 		{{ partial "scripts.html" . }}
 	</body>
 </html>
