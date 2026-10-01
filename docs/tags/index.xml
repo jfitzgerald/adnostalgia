@@ -1,248 +1,197 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Ad Nostalgia</title>
-    <link>http://www.adnostalgia.com/tags/</link>
-    <description>Recent content in Tags on Ad Nostalgia</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://www.adnostalgia.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Airline</title>
-      <link>http://www.adnostalgia.com/tags/airline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/airline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Airlines</title>
-      <link>http://www.adnostalgia.com/tags/airlines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/airlines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>All-Year Club</title>
-      <link>http://www.adnostalgia.com/tags/all-year-club/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/all-year-club/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>All-Year Club of California</title>
-      <link>http://www.adnostalgia.com/tags/all-year-club-of-california/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/all-year-club-of-california/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>All-Year Club of Southern California</title>
-      <link>http://www.adnostalgia.com/tags/all-year-club-of-southern-california/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/all-year-club-of-southern-california/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Balboa Park</title>
-      <link>http://www.adnostalgia.com/tags/balboa-park/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/balboa-park/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brochure</title>
-      <link>http://www.adnostalgia.com/tags/brochure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/brochure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Californians Inc.</title>
-      <link>http://www.adnostalgia.com/tags/californians-inc./</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/californians-inc./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Catalina</title>
-      <link>http://www.adnostalgia.com/tags/catalina/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/catalina/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decal</title>
-      <link>http://www.adnostalgia.com/tags/decal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/decal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Los Angeles</title>
-      <link>http://www.adnostalgia.com/tags/los-angeles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/los-angeles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Palm Springs</title>
-      <link>http://www.adnostalgia.com/tags/palm-springs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/palm-springs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Palm Spriongs</title>
-      <link>http://www.adnostalgia.com/tags/palm-spriongs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/palm-spriongs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Panama Exposition</title>
-      <link>http://www.adnostalgia.com/tags/panama-exposition/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/panama-exposition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pasadena</title>
-      <link>http://www.adnostalgia.com/tags/pasadena/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/pasadena/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Postcard</title>
-      <link>http://www.adnostalgia.com/tags/postcard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/postcard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Railroad</title>
-      <link>http://www.adnostalgia.com/tags/railroad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/railroad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sacramento</title>
-      <link>http://www.adnostalgia.com/tags/sacramento/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/sacramento/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>San Diego</title>
-      <link>http://www.adnostalgia.com/tags/san-diego/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/san-diego/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Santa Fe Railroad</title>
-      <link>http://www.adnostalgia.com/tags/santa-fe-railroad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/santa-fe-railroad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Southern California</title>
-      <link>http://www.adnostalgia.com/tags/southern-california/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/southern-california/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Southern Pacific Railroad</title>
-      <link>http://www.adnostalgia.com/tags/southern-pacific-railroad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/southern-pacific-railroad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Union Pacific</title>
-      <link>http://www.adnostalgia.com/tags/union-pacific/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/union-pacific/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Union Pacific Railroad</title>
-      <link>http://www.adnostalgia.com/tags/union-pacific-railroad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/union-pacific-railroad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Western Airlines</title>
-      <link>http://www.adnostalgia.com/tags/western-airlines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/western-airlines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Western Wonderlands</title>
-      <link>http://www.adnostalgia.com/tags/western-wonderlands/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/tags/western-wonderlands/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Tags on Ad Nostalgia</title>
+		<link>http://www.adnostalgia.com/tags/</link>
+		<description>Recent content in Tags on Ad Nostalgia</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<atom:link href="http://www.adnostalgia.com/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Airline</title>
+				<link>http://www.adnostalgia.com/tags/airline/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/airline/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Airlines</title>
+				<link>http://www.adnostalgia.com/tags/airlines/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/airlines/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>All-Year Club</title>
+				<link>http://www.adnostalgia.com/tags/all-year-club/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/all-year-club/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>All-Year Club of California</title>
+				<link>http://www.adnostalgia.com/tags/all-year-club-of-california/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/all-year-club-of-california/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>All-Year Club of Southern California</title>
+				<link>http://www.adnostalgia.com/tags/all-year-club-of-southern-california/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/all-year-club-of-southern-california/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Balboa Park</title>
+				<link>http://www.adnostalgia.com/tags/balboa-park/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/balboa-park/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Brochure</title>
+				<link>http://www.adnostalgia.com/tags/brochure/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/brochure/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Californians Inc.</title>
+				<link>http://www.adnostalgia.com/tags/californians-inc./</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/californians-inc./</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Catalina</title>
+				<link>http://www.adnostalgia.com/tags/catalina/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/catalina/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Decal</title>
+				<link>http://www.adnostalgia.com/tags/decal/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/decal/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Los Angeles</title>
+				<link>http://www.adnostalgia.com/tags/los-angeles/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/los-angeles/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Palm Springs</title>
+				<link>http://www.adnostalgia.com/tags/palm-springs/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/palm-springs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Palm Spriongs</title>
+				<link>http://www.adnostalgia.com/tags/palm-spriongs/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/palm-spriongs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Panama Exposition</title>
+				<link>http://www.adnostalgia.com/tags/panama-exposition/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/panama-exposition/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pasadena</title>
+				<link>http://www.adnostalgia.com/tags/pasadena/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/pasadena/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Postcard</title>
+				<link>http://www.adnostalgia.com/tags/postcard/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/postcard/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Railroad</title>
+				<link>http://www.adnostalgia.com/tags/railroad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/railroad/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sacramento</title>
+				<link>http://www.adnostalgia.com/tags/sacramento/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/sacramento/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>San Diego</title>
+				<link>http://www.adnostalgia.com/tags/san-diego/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/san-diego/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Santa Fe Railroad</title>
+				<link>http://www.adnostalgia.com/tags/santa-fe-railroad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/santa-fe-railroad/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Southern California</title>
+				<link>http://www.adnostalgia.com/tags/southern-california/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/southern-california/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Southern Pacific Railroad</title>
+				<link>http://www.adnostalgia.com/tags/southern-pacific-railroad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/southern-pacific-railroad/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Union Pacific</title>
+				<link>http://www.adnostalgia.com/tags/union-pacific/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/union-pacific/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Union Pacific Railroad</title>
+				<link>http://www.adnostalgia.com/tags/union-pacific-railroad/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/union-pacific-railroad/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Western Airlines</title>
+				<link>http://www.adnostalgia.com/tags/western-airlines/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/western-airlines/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Western Wonderlands</title>
+				<link>http://www.adnostalgia.com/tags/western-wonderlands/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/tags/western-wonderlands/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

@@ -1,23 +1,20 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en-US">
 	<head>
 			<meta charset="UTF-8" />
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Ad Nostalgia</title>
-		<meta name="description" content="Hugrid - grid theme for Hugo with an expanding image preview." />
-		<meta name="keywords" content="Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts" />
-		<meta name="author" content="Pavel Kanyshev" />
-		<link rel="icon" href="favicon.ico" />
-		<meta name="generator" content="Hugo 0.59.1" />
+		<title>Ad Nostalgia — Southern California Travel Archive</title>
+		<meta name="description" content="A gallery of vintage Southern California travel advertisements, brochures, and ephemera." />
+		<meta name="keywords" content="Southern California, vintage travel, advertising, ephemera, archive" />
+		<meta name="author" content="Ad Nostalgia" />
+		<meta name="theme-color" content="#17382f" />
+		<meta name="generator" content="Hugo 0.164.0">
 		<style>
 		body {
-		background: #f9f9f9;
+		background: #f4f0e8;
 		color: ;
 		}
 		</style>
-		<link rel="stylesheet" type="text/css" href="/css/default.css" />
-		<link rel="stylesheet" type="text/css" href="/css/component.css" />
 		<link rel="stylesheet" type="text/css" href="/css/site.css" />
 		<link rel="stylesheet" type="text/css" href="/css/lightbox.min.css" />
 		
@@ -29,25 +26,63 @@
 
 	
 	</head>
-	<body>
-			<div class="main">
-      <div class="splash">
-  <div class="splash-image">
-    <img src="/images/adnostalgia_home.jpg">
-  </div>
-  <div class="splash-details"><a href="/gallery/">Enter Gallery</a>
-    <p><strong>Welcome to AdNostalgia.com</strong> -- a gallery of vintage Southern California advertisements from the 1930's, 1940's, and 1950's.  This collection of advertisements is rich with colorful landscapes and eye-catching scenery depicting the idyllic vacation setting of Southern California.</p>
-  </div>
+	<body class="home-page">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header site-header--home"><div class="header-inner">
+  <a class="wordmark" href="/" aria-label="Ad Nostalgia home">
+    <span class="wordmark-mark" aria-hidden="true">AN</span>
+    <span class="wordmark-copy">
+      <span class="wordmark-name">Ad Nostalgia</span>
+      <span class="wordmark-subtitle">Southern California Travel Archive</span>
+    </span>
+  </a>
+  <nav class="site-nav" aria-label="Primary navigation">
+    <a href="/" aria-current="page">About</a>
+    <a href="/gallery/">Collection <span class="nav-count">97</span></a>
+  </nav>
 </div>
+</header>
+    <main class="main" id="main-content"><section class="home-hero" aria-labelledby="home-title">
+  <div class="home-hero__image">
+    <img src="/images/adnostalgia_home.jpg" alt="Illustrated vintage Southern California travel advertisement showing a coastal landscape" width="475" height="410">
+    <span class="image-credit">Private collection</span>
+  </div>
+  <div class="home-hero__copy">
+    <p class="eyebrow">A visual archive · 1910s–1960s</p>
+    <h1 id="home-title">California,<br><em>as imagined.</em></h1>
+    <p class="home-deck">Explore a private collection of vintage travel advertisements, brochures, and printed ephemera that sold Southern California as a place of endless possibility.</p>
+    <a class="button button--primary" href="/gallery/">Explore the collection <span aria-hidden="true">&#8594;</span></a>
+    <dl class="collection-facts">
+      <div><dt>Collection</dt><dd>97 objects</dd></div>
+      <div><dt>Focus</dt><dd>Southern California</dd></div>
+      <div><dt>Formats</dt><dd>Print &amp; ephemera</dd></div>
+    </dl>
+  </div>
+</section>
+<section class="home-note" aria-labelledby="archive-heading">
+  <p class="eyebrow">About the archive</p>
+  <h2 id="archive-heading">Sunshine, speed, and the promise of the West</h2>
+  <p>These images offer a window into the visual language used to shape Southern California’s public imagination. Browse the collection to examine the artwork, typography, destinations, and aspirations preserved in each piece.</p>
+</section>
+</main>
+		<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <span class="footer-mark">AN</span>
+      <p>A private collection of Southern California travel ephemera.</p>
+    </div>
+    <a href="#main-content">Back to top <span aria-hidden="true">&#8593;</span></a>
+  </div>
+</footer>
 
-			</div>
-		  <script src="http://www.adnostalgia.com/js/lightbox-plus-jquery.min.js"></script>
+		  <script src="/js/lightbox-plus-jquery.min.js"></script>
   <script>
       lightbox.option({
         'resizeDuration': 300,
         'wrapAround': true
       })
   </script>
+  
 
 	</body>
 </html>

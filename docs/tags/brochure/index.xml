@@ -1,158 +1,127 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Brochure on Ad Nostalgia</title>
-    <link>http://www.adnostalgia.com/tags/brochure/</link>
-    <description>Recent content in Brochure on Ad Nostalgia</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://www.adnostalgia.com/tags/brochure/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>California - Where Life is Better (1928)</title>
-      <link>http://www.adnostalgia.com/gallery/southern-where-life-is-better/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/southern-where-life-is-better/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Southern California Through the Camera</title>
-      <link>http://www.adnostalgia.com/gallery/southern-california-through-the-camera-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/southern-california-through-the-camera-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>California - Union Pacific System Overland (1929)</title>
-      <link>http://www.adnostalgia.com/gallery/california-union-pacific-overland/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/california-union-pacific-overland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pasadena - California at its best! Summer &amp; Winter</title>
-      <link>http://www.adnostalgia.com/gallery/pasadena-summer-winter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/pasadena-summer-winter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Southern California - All the Year (back)</title>
-      <link>http://www.adnostalgia.com/gallery/southern-california-all-the-year-back/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/southern-california-all-the-year-back/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Southern California - All the Year (front)</title>
-      <link>http://www.adnostalgia.com/gallery/southern-california-all-the-year-front/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/southern-california-all-the-year-front/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Los Angeles County Brochure (1931)</title>
-      <link>http://www.adnostalgia.com/gallery/los-angeles-county-chamber-commerce-1931/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/los-angeles-county-chamber-commerce-1931/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Catalina Welcomes You</title>
-      <link>http://www.adnostalgia.com/gallery/cataline-welcomes-your-brochure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/cataline-welcomes-your-brochure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Los Angeles County, California</title>
-      <link>http://www.adnostalgia.com/gallery/los-angeles-county-brochure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/los-angeles-county-brochure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>American Airlines - California is only hours away!</title>
-      <link>http://www.adnostalgia.com/gallery/california-summer-american-airlines-flagship/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/california-summer-american-airlines-flagship/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explore Southern California</title>
-      <link>http://www.adnostalgia.com/gallery/explore-southern-california/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/explore-southern-california/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How to plan your trip to Southern California</title>
-      <link>http://www.adnostalgia.com/gallery/plan-your-trip-to-southern-california/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/plan-your-trip-to-southern-california/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>There&#39;s More to Live for in San Diego</title>
-      <link>http://www.adnostalgia.com/gallery/more-to-live-for-in-san-diego/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/more-to-live-for-in-san-diego/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Where to Stay in Southern California</title>
-      <link>http://www.adnostalgia.com/gallery/where-to-stay-in-southern-california/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/where-to-stay-in-southern-california/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>United Air Lines - California and the Golden West</title>
-      <link>http://www.adnostalgia.com/gallery/united-airlines-california/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/united-airlines-california/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Palm Springs - Southern Pacific</title>
-      <link>http://www.adnostalgia.com/gallery/palm-springs-southern-pacific/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.adnostalgia.com/gallery/palm-springs-southern-pacific/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Brochure on Ad Nostalgia</title>
+		<link>http://www.adnostalgia.com/tags/brochure/</link>
+		<description>Recent content in Brochure on Ad Nostalgia</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<atom:link href="http://www.adnostalgia.com/tags/brochure/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>California - Where Life is Better (1928)</title>
+				<link>http://www.adnostalgia.com/gallery/southern-where-life-is-better/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/southern-where-life-is-better/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Southern California Through the Camera</title>
+				<link>http://www.adnostalgia.com/gallery/southern-california-through-the-camera-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/southern-california-through-the-camera-2/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>California - Union Pacific System Overland (1929)</title>
+				<link>http://www.adnostalgia.com/gallery/california-union-pacific-overland/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/california-union-pacific-overland/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pasadena - California at its best! Summer &amp; Winter</title>
+				<link>http://www.adnostalgia.com/gallery/pasadena-summer-winter/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/pasadena-summer-winter/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Southern California - All the Year (back)</title>
+				<link>http://www.adnostalgia.com/gallery/southern-california-all-the-year-back/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/southern-california-all-the-year-back/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Southern California - All the Year (front)</title>
+				<link>http://www.adnostalgia.com/gallery/southern-california-all-the-year-front/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/southern-california-all-the-year-front/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Los Angeles County Brochure (1931)</title>
+				<link>http://www.adnostalgia.com/gallery/los-angeles-county-chamber-commerce-1931/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/los-angeles-county-chamber-commerce-1931/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Catalina Welcomes You</title>
+				<link>http://www.adnostalgia.com/gallery/cataline-welcomes-your-brochure/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/cataline-welcomes-your-brochure/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Los Angeles County, California</title>
+				<link>http://www.adnostalgia.com/gallery/los-angeles-county-brochure/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/los-angeles-county-brochure/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>American Airlines - California is only hours away!</title>
+				<link>http://www.adnostalgia.com/gallery/california-summer-american-airlines-flagship/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/california-summer-american-airlines-flagship/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Explore Southern California</title>
+				<link>http://www.adnostalgia.com/gallery/explore-southern-california/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/explore-southern-california/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>How to plan your trip to Southern California</title>
+				<link>http://www.adnostalgia.com/gallery/plan-your-trip-to-southern-california/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/plan-your-trip-to-southern-california/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>There&#39;s More to Live for in San Diego</title>
+				<link>http://www.adnostalgia.com/gallery/more-to-live-for-in-san-diego/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/more-to-live-for-in-san-diego/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Where to Stay in Southern California</title>
+				<link>http://www.adnostalgia.com/gallery/where-to-stay-in-southern-california/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/where-to-stay-in-southern-california/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>United Air Lines - California and the Golden West</title>
+				<link>http://www.adnostalgia.com/gallery/united-airlines-california/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/united-airlines-california/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Palm Springs - Southern Pacific</title>
+				<link>http://www.adnostalgia.com/gallery/palm-springs-southern-pacific/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://www.adnostalgia.com/gallery/palm-springs-southern-pacific/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
